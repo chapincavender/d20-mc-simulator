@@ -1,12 +1,13 @@
-# d20 Monte Carlor simulator
+# d20 Monte Carlo simulator
 
 This library provides a Monte Carlo simulator for combat encounters in d20 tabletop RPG systems.
 The current implementation supports Dungeons & Dragons fifth edition (2014).
-The primary use case is for game masters to playtest statistics for custom monsters under the assumption that the monster will appear in a combat encounter that is part of a larger adventuring day (see Rationale for more details).
+The primary use case is for game masters to playtest statistics for custom monsters under the assumption that the monster will appear in a combat encounter that is part of a larger adventuring day (see [Rationale](#rationale) for more details).
 An adventuring day is assumed to consist of six combat encounters with a short rest after the second and fourth encounters.
+
 Given a party level for the player characters and the number of monsters in an encounter, the simulator will run Monte Carlo simulations for a large number of adventuring days.
 The output will report the mean and standard deviation of the number of player characters surviving at the end of the last encounter on each day.
-From testing against balanced combat enounters using a party of four player characters and monsters from the Monster Manual, a balanced encounter will produce a mean survival of 1.0 player character (see Details and Assumptions below for more details).
+From testing against balanced combat enounters using a party of four player characters and monsters from the Monster Manual, a balanced encounter will produce a mean survival of 1.0 (see [Details and Assumptions](#details-and-assumptions) below for more details).
 
 # Setup
 
@@ -53,6 +54,7 @@ For example, to simulate a party of three player characters with a fighter and t
 
 The number of adventuring days simulated is 1000 by default and can be changed with the `-a` flag.
 For example, to simulate 500 adventuring days, use
+
 `python d20_mc_simulator.py -m Kobold -n 4 -p 1 -a 500`
 
 Use the `-v` flag to print detailed information about actions taken and dice rolled during combat encounters.
@@ -69,7 +71,7 @@ This is useful to debug the behavior of a new custom monster.
 
 `python d20_mc_simulator.py -m Kobold -n 4 -p 1 -d`
 
-## Test abstract statistics without a detailed monster stat block
+## Test abstract statistics without a detailed stat block
 
 To simulate abstract statistics (e.g. those in the table "Monster Statistics by Challenge Rating" in the Dungeon Master's Guide p.274) rather than a detailed stat block, use the monster name "Test".
 Use the `-t` flag to pass a comma-separated list of six integers corresponding to the attack modifier, armor class, total damage per round, total hit points, number of attacks, and proficiency bonus.
@@ -81,18 +83,19 @@ For example, to simulate four test creatures with a +3 attack modifier, 13 armor
 
 Adding a custom monster requires modifying the python code in the library.
 Knowledge of class objects and inheritance in python will be helpful.
-If you are uncomfortable with writing your own python code, use the "Test" monster described above in "Test abstract statistics without a detailed monster stat block".
+If you are uncomfortable with writing your own python code, use the "Test" monster described [above](#test-abstract-statistics-without-a-detailed-stat-block).
 
-The library provides an abstract class `Creature` with the abstract attribute `hit_die` and the abstract methods initialize_features(self), start_encounter(self, encounter), and take_turn(self, encounter).
+The library provides an abstract class `Creature` with the abstract attribute `hit_die` and the abstract methods `initialize_features(self)`, `start_encounter(self, encounter)`, and `take_turn(self, encounter)`.
 In `custom_bestiary.py`, create a new `class` derived from the `Creature` class, or copy the code from a similar existing monster in `mm_bestiary.py`.
 Minimally, you should override `initialize_features` to provide the attribute `hit_die` and override `take_turn` to provide logic for how the monster takes its turn.
 `initialize_features` can also set ability scores, armor, skill and save proficiencies, immunities, resistances, weaknesses, proficiency bonus, total hit dice, spells, and weapon attacks.
+
 Weapon attacks should use the `Weapon` class defined in `creature.py`.
 Conditions that last for a set duration or that trigger effects at the start or end of a creature's turn should use a class derived from the `Duration` class in `duration.py`.
 Spells should use a class derived from the `Spell` class in `spells.py`.
 Creatures with legendary actions should use the `LegendaryCeature` class from `creature.py`.
 Constructs should include `self.construct = True` in `initialize_features()` to determine validity for spell targets.
-Undead should include `self.undead = $CHALLENGE_RATING` where $CHALLENGE_RATING is the creature's challenge rating to determine validity for spell targets and the cleric's Turn Undead feature.
+Undead should include `self.undead = $CHALLENGE_RATING` where `$CHALLENGE_RATING` is the creature's challenge rating to determine validity for spell targets and the cleric's Turn Undead feature.
 
 In `mm_bestiary.py`, see `Kobold` for an example of a minimal derived class for a simple monster with a single weapon attack and Pack Tactics.
 See `Mage` for an example of a detailed derived class for a monster that casts spells.
@@ -127,13 +130,18 @@ Alternatively, it can help you decide how to adjust the game statistics if you g
 # Details and assumptions
 
 Implementing detailed logic for combatants is beyond the scope of this project, so the combat encounter simulations are simplified with several assumptions.
+
 First, there is no combat grid or notion of positioning.
 Movement abilities are not implemented.
+
 Second, all combatants are valid targets for all other combatants unless a condition such as invisibility or stealth is active.
 This means abilities such as Pack Tactics trigger when at least one other ally is alive.
+
 Third, area of effect abilities will target up to two creatures.
+
 Fourth, targets for attacks or other features are chosen randomly between valid targets.
 Other than avoiding invalid targets---such as attacking a dead creature or casting a spell that deals fire damage at a creature immune to fire damage---logic for deciding which opponent to attack is not implemented.
+
 Fifth, player characters will ration usages of class features with limited uses based on two encounters per short rest and six encounters per long rest.
 An equal number of uses will be consumed in each encounter, with additional uses allocated to either earlier or later encounters.
 For example, the fighter's Second Wind feature recharges on a short rest, and it's more useful to use this feature earlier.
@@ -162,17 +170,15 @@ Full results are included in `mm_survival.txt`.
 A threshold of 1.0 for mean survival was selected to reproduce encounter building guidelines in the Dungeon Master's Guide (DMG) and Xanathar's Guide to Everything (XGE).
 The table below compares CR for a balanced encounter given a party level (rows) and a number of monsters (columns) according to DMG guidlines, XGE guidelines, or this Monte Carlo simulator (MC) with mean survival 1.0.
 
-|             |           CR DMG            |           CR XGE            |            CR MC            |
-| N Monsters  |  16 |   8 |   4 |   2 |   1 |  16 |   8 |   4 |   2 |   1 |  16 |   8 |   4 |   2 |   1 |
-| Party Level |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
---------------------------------------------------------------------------------------------------------
-|           1 |     |   0 | 1/8 | 1/4 |   1 |   0 | 1/8 | 1/4 | 1/2 |   1 |     |   0 | 1/8 | 1/4 |   1 |
-|           2 |     |   0 | 1/4 | 1/2 |   2 |   0 | 1/4 | 1/2 |   1 |   2 |   0 |   0 | 1/4 |   1 |   2 |
-|           3 |   0 | 1/8 | 1/4 |   1 |   3 | 1/8 | 1/4 | 1/2 |   1 |   3 |   0 | 1/8 | 1/2 |   1 |   3 |
-|           4 |   0 | 1/4 | 1/2 |   2 |   4 | 1/4 | 1/2 |   1 |   2 |   4 |   0 | 1/4 |   1 |   2 |   4 |
-|           5 | 1/8 | 1/2 |   1 |   3 |   5 | 1/2 |   1 |   2 |   3 |   7 | 1/8 | 1/2 |   2 |   4 |   7 |
-|           6 | 1/8 | 1/2 |   1 |   3 |   6 | 1/2 |   1 |   2 |   4 |   8 | 1/4 |   1 |   2 |   4 |   8 |
-|           7 | 1/4 | 1/2 |   2 |   4 |   7 | 1/2 |   1 |   3 |   4 |   9 | 1/4 |   1 |   3 |   5 |   9 |
-|           8 | 1/4 |   1 |   2 |   4 |   8 |   1 |   2 |   3 |   4 |  10 | 1/4 |   1 |   3 |   6 |  10 |
+| Party Level | DMG |  16 |   8 |   4 |   2 |   1 | XGE |  16 |   8 |   4 |   2 |   1 | MC |  16 |   8 |   4 |   2 |   1 |
+|-------------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|----|-----|-----|-----|-----|-----|
+|           1 |     |     |   0 | 1/8 | 1/4 |   1 |     |   0 | 1/8 | 1/4 | 1/2 |   1 |    |     |   0 | 1/8 | 1/4 |   1 |
+|           2 |     |     |   0 | 1/4 | 1/2 |   2 |     |   0 | 1/4 | 1/2 |   1 |   2 |    |   0 |   0 | 1/4 |   1 |   2 |
+|           3 |     |   0 | 1/8 | 1/4 |   1 |   3 |     | 1/8 | 1/4 | 1/2 |   1 |   3 |    |   0 | 1/8 | 1/2 |   1 |   3 |
+|           4 |     |   0 | 1/4 | 1/2 |   2 |   4 |     | 1/4 | 1/2 |   1 |   2 |   4 |    |   0 | 1/4 |   1 |   2 |   4 |
+|           5 |     | 1/8 | 1/2 |   1 |   3 |   5 |     | 1/2 |   1 |   2 |   3 |   7 |    | 1/8 | 1/2 |   2 |   4 |   7 |
+|           6 |     | 1/8 | 1/2 |   1 |   3 |   6 |     | 1/2 |   1 |   2 |   4 |   8 |    | 1/4 |   1 |   2 |   4 |   8 |
+|           7 |     | 1/4 | 1/2 |   2 |   4 |   7 |     | 1/2 |   1 |   3 |   4 |   9 |    | 1/4 |   1 |   3 |   5 |   9 |
+|           8 |     | 1/4 |   1 |   2 |   4 |   8 |     |   1 |   2 |   3 |   4 |  10 |    | 1/4 |   1 |   3 |   6 |  10 |
 
 Results for this MC simulator are similar to the DMG guidelines when the number of monsters is greater than the number of player characters and similar to the XGE guidelines when the number of monsters is less than the number of player characters.
