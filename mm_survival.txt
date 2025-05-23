@@ -1,0 +1,1894 @@
+Level  1 Hawk  1 Survival 4.0000 +/- 0.0000
+Level  1 Hawk  2 Survival 4.0000 +/- 0.0000
+Level  1 Hawk  4 Survival 3.9990 +/- 0.0316Level  1 Hawk  8 Survival 3.9440 +/- 0.2509Level  1 Hawk 16 Survival 0.1050 +/- 0.5461Level  2 Hawk  1 Survival 4.0000 +/- 0.0000Level  2 Hawk  2 Survival 4.0000 +/- 0.0000Level  2 Hawk  4 Survival 4.0000 +/- 0.0000Level  2 Hawk  8 Survival 4.0000 +/- 0.0000Level  2 Hawk 16 Survival 3.9520 +/- 0.3283Level  3 Hawk  1 Survival 4.0000 +/- 0.0000Level  3 Hawk  2 Survival 4.0000 +/- 0.0000Level  3 Hawk  4 Survival 4.0000 +/- 0.0000Level  3 Hawk  8 Survival 4.0000 +/- 0.0000Level  3 Hawk 16 Survival 4.0000 +/- 0.0000Level  4 Hawk  1 Survival 4.0000 +/- 0.0000Level  4 Hawk  2 Survival 4.0000 +/- 0.0000Level  4 Hawk  4 Survival 4.0000 +/- 0.0000Level  4 Hawk  8 Survival 4.0000 +/- 0.0000Level  4 Hawk 16 Survival 4.0000 +/- 0.0000Level  5 Hawk  1 Survival 4.0000 +/- 0.0000Level  5 Hawk  2 Survival 4.0000 +/- 0.0000Level  5 Hawk  4 Survival 4.0000 +/- 0.0000Level  5 Hawk  8 Survival 4.0000 +/- 0.0000Level  5 Hawk 16 Survival 4.0000 +/- 0.0000
+Level  1 Jackal  1 Survival 4.0000 +/- 0.0000
+Level  1 Jackal  2 Survival 3.9940 +/- 0.0773
+Level  1 Jackal  4 Survival 3.9230 +/- 0.3181
+Level  1 Jackal  8 Survival 0.8960 +/- 1.4647
+Level  1 Jackal 16 Survival 0.0000 +/- 0.0000
+Level  2 Jackal  1 Survival 4.0000 +/- 0.0000
+Level  2 Jackal  2 Survival 4.0000 +/- 0.0000
+Level  2 Jackal  4 Survival 3.9990 +/- 0.0316
+Level  2 Jackal  8 Survival 3.9130 +/- 0.5037
+Level  2 Jackal 16 Survival 0.0030 +/- 0.0949
+Level  3 Jackal  1 Survival 4.0000 +/- 0.0000
+Level  3 Jackal  2 Survival 4.0000 +/- 0.0000
+Level  3 Jackal  4 Survival 4.0000 +/- 0.0000
+Level  3 Jackal  8 Survival 4.0000 +/- 0.0000
+Level  3 Jackal 16 Survival 1.1260 +/- 1.6956
+Level  4 Jackal  1 Survival 4.0000 +/- 0.0000
+Level  4 Jackal  2 Survival 4.0000 +/- 0.0000
+Level  4 Jackal  4 Survival 4.0000 +/- 0.0000
+Level  4 Jackal  8 Survival 4.0000 +/- 0.0000
+Level  4 Jackal 16 Survival 3.8280 +/- 0.6378
+Level  5 Jackal  1 Survival 4.0000 +/- 0.0000
+Level  5 Jackal  2 Survival 4.0000 +/- 0.0000
+Level  5 Jackal  4 Survival 4.0000 +/- 0.0000
+Level  5 Jackal  8 Survival 4.0000 +/- 0.0000
+Level  5 Jackal 16 Survival 3.9990 +/- 0.0316
+Level  1 Myconid sprout  1 Survival 3.9920 +/- 0.0891
+Level  1 Myconid sprout  2 Survival 3.9700 +/- 0.1820
+Level  1 Myconid sprout  4 Survival 3.4510 +/- 0.9750
+Level  1 Myconid sprout  8 Survival 0.0680 +/- 0.3918
+Level  1 Myconid sprout 16 Survival 0.0000 +/- 0.0000
+Level  2 Myconid sprout  1 Survival 4.0000 +/- 0.0000
+Level  2 Myconid sprout  2 Survival 3.9990 +/- 0.0316
+Level  2 Myconid sprout  4 Survival 3.9850 +/- 0.1296
+Level  2 Myconid sprout  8 Survival 3.1750 +/- 1.3894
+Level  2 Myconid sprout 16 Survival 0.0000 +/- 0.0000
+Level  3 Myconid sprout  1 Survival 4.0000 +/- 0.0000
+Level  3 Myconid sprout  2 Survival 4.0000 +/- 0.0000
+Level  3 Myconid sprout  4 Survival 4.0000 +/- 0.0000
+Level  3 Myconid sprout  8 Survival 3.9220 +/- 0.3742
+Level  3 Myconid sprout 16 Survival 0.0690 +/- 0.4522
+Level  4 Myconid sprout  1 Survival 4.0000 +/- 0.0000
+Level  4 Myconid sprout  2 Survival 4.0000 +/- 0.0000
+Level  4 Myconid sprout  4 Survival 4.0000 +/- 0.0000
+Level  4 Myconid sprout  8 Survival 3.9930 +/- 0.0834
+Level  4 Myconid sprout 16 Survival 2.0740 +/- 1.6611
+Level  5 Myconid sprout  1 Survival 4.0000 +/- 0.0000
+Level  5 Myconid sprout  2 Survival 4.0000 +/- 0.0000
+Level  5 Myconid sprout  4 Survival 4.0000 +/- 0.0000
+Level  5 Myconid sprout  8 Survival 4.0000 +/- 0.0000
+Level  5 Myconid sprout 16 Survival 3.9910 +/- 0.1222
+Level  1 Bandit  1 Survival 3.9910 +/- 0.0945
+Level  1 Bandit  2 Survival 3.8550 +/- 0.4798
+Level  1 Bandit  4 Survival 1.1620 +/- 1.5310
+Level  1 Bandit  8 Survival 0.0000 +/- 0.0000
+Level  1 Bandit 16 Survival 0.0000 +/- 0.0000
+Level  2 Bandit  1 Survival 4.0000 +/- 0.0000
+Level  2 Bandit  2 Survival 3.9940 +/- 0.0773
+Level  2 Bandit  4 Survival 3.8120 +/- 0.6878
+Level  2 Bandit  8 Survival 0.0490 +/- 0.3984
+Level  2 Bandit 16 Survival 0.0000 +/- 0.0000
+Level  3 Bandit  1 Survival 4.0000 +/- 0.0000
+Level  3 Bandit  2 Survival 4.0000 +/- 0.0000
+Level  3 Bandit  4 Survival 3.9950 +/- 0.0706
+Level  3 Bandit  8 Survival 2.6230 +/- 1.7395
+Level  3 Bandit 16 Survival 0.0000 +/- 0.0000
+Level  4 Bandit  1 Survival 4.0000 +/- 0.0000
+Level  4 Bandit  2 Survival 4.0000 +/- 0.0000
+Level  4 Bandit  4 Survival 4.0000 +/- 0.0000
+Level  4 Bandit  8 Survival 3.9090 +/- 0.4571
+Level  4 Bandit 16 Survival 0.0000 +/- 0.0000
+Level  5 Bandit  1 Survival 4.0000 +/- 0.0000
+Level  5 Bandit  2 Survival 4.0000 +/- 0.0000
+Level  5 Bandit  4 Survival 4.0000 +/- 0.0000
+Level  5 Bandit  8 Survival 4.0000 +/- 0.0000
+Level  5 Bandit 16 Survival 3.4490 +/- 1.1553
+Level  6 Bandit  1 Survival 4.0000 +/- 0.0000
+Level  6 Bandit  2 Survival 4.0000 +/- 0.0000
+Level  6 Bandit  4 Survival 4.0000 +/- 0.0000
+Level  6 Bandit  8 Survival 4.0000 +/- 0.0000
+Level  6 Bandit 16 Survival 3.9480 +/- 0.3308
+Level  7 Bandit  1 Survival 4.0000 +/- 0.0000
+Level  7 Bandit  2 Survival 4.0000 +/- 0.0000
+Level  7 Bandit  4 Survival 4.0000 +/- 0.0000
+Level  7 Bandit  8 Survival 4.0000 +/- 0.0000
+Level  7 Bandit 16 Survival 3.9880 +/- 0.1786
+Level  8 Bandit  1 Survival 4.0000 +/- 0.0000
+Level  8 Bandit  2 Survival 4.0000 +/- 0.0000
+Level  8 Bandit  4 Survival 4.0000 +/- 0.0000
+Level  8 Bandit  8 Survival 4.0000 +/- 0.0000
+Level  8 Bandit 16 Survival 4.0000 +/- 0.0000
+Level  1 Camel  1 Survival 3.9990 +/- 0.0316
+Level  1 Camel  2 Survival 3.9760 +/- 0.1595
+Level  1 Camel  4 Survival 2.5850 +/- 1.5392
+Level  1 Camel  8 Survival 0.0000 +/- 0.0000
+Level  1 Camel 16 Survival 0.0000 +/- 0.0000
+Level  2 Camel  1 Survival 4.0000 +/- 0.0000
+Level  2 Camel  2 Survival 4.0000 +/- 0.0000
+Level  2 Camel  4 Survival 3.9850 +/- 0.1296
+Level  2 Camel  8 Survival 0.5350 +/- 1.2769
+Level  2 Camel 16 Survival 0.0000 +/- 0.0000
+Level  3 Camel  1 Survival 4.0000 +/- 0.0000
+Level  3 Camel  2 Survival 4.0000 +/- 0.0000
+Level  3 Camel  4 Survival 4.0000 +/- 0.0000
+Level  3 Camel  8 Survival 3.7760 +/- 0.7186
+Level  3 Camel 16 Survival 0.0000 +/- 0.0000
+Level  4 Camel  1 Survival 4.0000 +/- 0.0000
+Level  4 Camel  2 Survival 4.0000 +/- 0.0000
+Level  4 Camel  4 Survival 4.0000 +/- 0.0000
+Level  4 Camel  8 Survival 3.9950 +/- 0.0706
+Level  4 Camel 16 Survival 0.0160 +/- 0.1333
+Level  5 Camel  1 Survival 4.0000 +/- 0.0000
+Level  5 Camel  2 Survival 4.0000 +/- 0.0000
+Level  5 Camel  4 Survival 4.0000 +/- 0.0000
+Level  5 Camel  8 Survival 4.0000 +/- 0.0000
+Level  5 Camel 16 Survival 3.9030 +/- 0.4287
+Level  6 Camel  1 Survival 4.0000 +/- 0.0000
+Level  6 Camel  2 Survival 4.0000 +/- 0.0000
+Level  6 Camel  4 Survival 4.0000 +/- 0.0000
+Level  6 Camel  8 Survival 4.0000 +/- 0.0000
+Level  6 Camel 16 Survival 3.9950 +/- 0.0948
+Level  7 Camel  1 Survival 4.0000 +/- 0.0000
+Level  7 Camel  2 Survival 4.0000 +/- 0.0000
+Level  7 Camel  4 Survival 4.0000 +/- 0.0000
+Level  7 Camel  8 Survival 4.0000 +/- 0.0000
+Level  7 Camel 16 Survival 4.0000 +/- 0.0000
+Level  8 Camel  1 Survival 4.0000 +/- 0.0000
+Level  8 Camel  2 Survival 4.0000 +/- 0.0000
+Level  8 Camel  4 Survival 4.0000 +/- 0.0000
+Level  8 Camel  8 Survival 4.0000 +/- 0.0000
+Level  8 Camel 16 Survival 4.0000 +/- 0.0000
+Level  1 Giant rat  1 Survival 3.9900 +/- 0.0995
+Level  1 Giant rat  2 Survival 3.8560 +/- 0.4398
+Level  1 Giant rat  4 Survival 0.5550 +/- 1.1926
+Level  1 Giant rat  8 Survival 0.0000 +/- 0.0000
+Level  1 Giant rat 16 Survival 0.0000 +/- 0.0000
+Level  2 Giant rat  1 Survival 4.0000 +/- 0.0000
+Level  2 Giant rat  2 Survival 3.9970 +/- 0.0547
+Level  2 Giant rat  4 Survival 3.6720 +/- 0.9150
+Level  2 Giant rat  8 Survival 0.0040 +/- 0.1265
+Level  2 Giant rat 16 Survival 0.0000 +/- 0.0000
+Level  3 Giant rat  1 Survival 4.0000 +/- 0.0000
+Level  3 Giant rat  2 Survival 4.0000 +/- 0.0000
+Level  3 Giant rat  4 Survival 3.9960 +/- 0.0774
+Level  3 Giant rat  8 Survival 1.0030 +/- 1.6098
+Level  3 Giant rat 16 Survival 0.0000 +/- 0.0000
+Level  4 Giant rat  1 Survival 4.0000 +/- 0.0000
+Level  4 Giant rat  2 Survival 4.0000 +/- 0.0000
+Level  4 Giant rat  4 Survival 3.9990 +/- 0.0316
+Level  4 Giant rat  8 Survival 3.5550 +/- 1.0593
+Level  4 Giant rat 16 Survival 0.0000 +/- 0.0000
+Level  5 Giant rat  1 Survival 4.0000 +/- 0.0000
+Level  5 Giant rat  2 Survival 4.0000 +/- 0.0000
+Level  5 Giant rat  4 Survival 4.0000 +/- 0.0000
+Level  5 Giant rat  8 Survival 4.0000 +/- 0.0000
+Level  5 Giant rat 16 Survival 0.8570 +/- 1.4201
+Level  6 Giant rat  1 Survival 4.0000 +/- 0.0000
+Level  6 Giant rat  2 Survival 4.0000 +/- 0.0000
+Level  6 Giant rat  4 Survival 4.0000 +/- 0.0000
+Level  6 Giant rat  8 Survival 4.0000 +/- 0.0000
+Level  6 Giant rat 16 Survival 3.4450 +/- 1.2077
+Level  7 Giant rat  1 Survival 4.0000 +/- 0.0000
+Level  7 Giant rat  2 Survival 4.0000 +/- 0.0000
+Level  7 Giant rat  4 Survival 4.0000 +/- 0.0000
+Level  7 Giant rat  8 Survival 4.0000 +/- 0.0000
+Level  7 Giant rat 16 Survival 3.8340 +/- 0.6564
+Level  8 Giant rat  1 Survival 4.0000 +/- 0.0000
+Level  8 Giant rat  2 Survival 4.0000 +/- 0.0000
+Level  8 Giant rat  4 Survival 4.0000 +/- 0.0000
+Level  8 Giant rat  8 Survival 4.0000 +/- 0.0000
+Level  8 Giant rat 16 Survival 3.9740 +/- 0.2353
+Level  1 Kobold  1 Survival 3.9970 +/- 0.0547
+Level  1 Kobold  2 Survival 3.8990 +/- 0.4135
+Level  1 Kobold  4 Survival 1.3320 +/- 1.6433
+Level  1 Kobold  8 Survival 0.0000 +/- 0.0000
+Level  1 Kobold 16 Survival 0.0000 +/- 0.0000
+Level  2 Kobold  1 Survival 4.0000 +/- 0.0000
+Level  2 Kobold  2 Survival 3.9970 +/- 0.0547
+Level  2 Kobold  4 Survival 3.8630 +/- 0.5500
+Level  2 Kobold  8 Survival 0.0450 +/- 0.4014
+Level  2 Kobold 16 Survival 0.0000 +/- 0.0000
+Level  3 Kobold  1 Survival 4.0000 +/- 0.0000
+Level  3 Kobold  2 Survival 4.0000 +/- 0.0000
+Level  3 Kobold  4 Survival 3.9990 +/- 0.0316
+Level  3 Kobold  8 Survival 2.1900 +/- 1.8394
+Level  3 Kobold 16 Survival 0.0000 +/- 0.0000
+Level  4 Kobold  1 Survival 4.0000 +/- 0.0000
+Level  4 Kobold  2 Survival 4.0000 +/- 0.0000
+Level  4 Kobold  4 Survival 4.0000 +/- 0.0000
+Level  4 Kobold  8 Survival 3.8510 +/- 0.5909
+Level  4 Kobold 16 Survival 0.0000 +/- 0.0000
+Level  5 Kobold  1 Survival 4.0000 +/- 0.0000
+Level  5 Kobold  2 Survival 4.0000 +/- 0.0000
+Level  5 Kobold  4 Survival 4.0000 +/- 0.0000
+Level  5 Kobold  8 Survival 4.0000 +/- 0.0000
+Level  5 Kobold 16 Survival 1.9060 +/- 1.8129
+Level  6 Kobold  1 Survival 4.0000 +/- 0.0000
+Level  6 Kobold  2 Survival 4.0000 +/- 0.0000
+Level  6 Kobold  4 Survival 4.0000 +/- 0.0000
+Level  6 Kobold  8 Survival 4.0000 +/- 0.0000
+Level  6 Kobold 16 Survival 3.7190 +/- 0.8927
+Level  7 Kobold  1 Survival 4.0000 +/- 0.0000
+Level  7 Kobold  2 Survival 4.0000 +/- 0.0000
+Level  7 Kobold  4 Survival 4.0000 +/- 0.0000
+Level  7 Kobold  8 Survival 4.0000 +/- 0.0000
+Level  7 Kobold 16 Survival 3.9100 +/- 0.4961
+Level  8 Kobold  1 Survival 4.0000 +/- 0.0000
+Level  8 Kobold  2 Survival 4.0000 +/- 0.0000
+Level  8 Kobold  4 Survival 4.0000 +/- 0.0000
+Level  8 Kobold  8 Survival 4.0000 +/- 0.0000
+Level  8 Kobold 16 Survival 3.9890 +/- 0.1375
+Level  1 Giant bat  1 Survival 3.8540 +/- 0.4784
+Level  1 Giant bat  2 Survival 2.0190 +/- 1.6630
+Level  1 Giant bat  4 Survival 0.0000 +/- 0.0000
+Level  1 Giant bat  8 Survival 0.0000 +/- 0.0000
+Level  1 Giant bat 16 Survival 0.0000 +/- 0.0000
+Level  2 Giant bat  1 Survival 3.9960 +/- 0.0632
+Level  2 Giant bat  2 Survival 3.8790 +/- 0.5006
+Level  2 Giant bat  4 Survival 0.1910 +/- 0.7894
+Level  2 Giant bat  8 Survival 0.0000 +/- 0.0000
+Level  2 Giant bat 16 Survival 0.0000 +/- 0.0000
+Level  3 Giant bat  1 Survival 4.0000 +/- 0.0000
+Level  3 Giant bat  2 Survival 4.0000 +/- 0.0000
+Level  3 Giant bat  4 Survival 3.3870 +/- 1.3073
+Level  3 Giant bat  8 Survival 0.0000 +/- 0.0000
+Level  3 Giant bat 16 Survival 0.0000 +/- 0.0000
+Level  4 Giant bat  1 Survival 4.0000 +/- 0.0000
+Level  4 Giant bat  2 Survival 3.9990 +/- 0.0316
+Level  4 Giant bat  4 Survival 3.9800 +/- 0.1721
+Level  4 Giant bat  8 Survival 0.0270 +/- 0.2939
+Level  4 Giant bat 16 Survival 0.0000 +/- 0.0000
+Level  5 Giant bat  1 Survival 4.0000 +/- 0.0000
+Level  5 Giant bat  2 Survival 4.0000 +/- 0.0000
+Level  5 Giant bat  4 Survival 4.0000 +/- 0.0000
+Level  5 Giant bat  8 Survival 3.9000 +/- 0.4962
+Level  5 Giant bat 16 Survival 0.0000 +/- 0.0000
+Level  6 Giant bat  1 Survival 4.0000 +/- 0.0000
+Level  6 Giant bat  2 Survival 4.0000 +/- 0.0000
+Level  6 Giant bat  4 Survival 4.0000 +/- 0.0000
+Level  6 Giant bat  8 Survival 3.9930 +/- 0.1139
+Level  6 Giant bat 16 Survival 0.0250 +/- 0.2499
+Level  7 Giant bat  1 Survival 4.0000 +/- 0.0000
+Level  7 Giant bat  2 Survival 4.0000 +/- 0.0000
+Level  7 Giant bat  4 Survival 4.0000 +/- 0.0000
+Level  7 Giant bat  8 Survival 4.0000 +/- 0.0000
+Level  7 Giant bat 16 Survival 0.3290 +/- 0.9217
+Level  8 Giant bat  1 Survival 4.0000 +/- 0.0000
+Level  8 Giant bat  2 Survival 4.0000 +/- 0.0000
+Level  8 Giant bat  4 Survival 4.0000 +/- 0.0000
+Level  8 Giant bat  8 Survival 4.0000 +/- 0.0000
+Level  8 Giant bat 16 Survival 2.4920 +/- 1.6151
+Level  1 Giant centipede  1 Survival 3.9020 +/- 0.3324
+Level  1 Giant centipede  2 Survival 3.6350 +/- 0.7657
+Level  1 Giant centipede  4 Survival 1.0110 +/- 1.4944
+Level  1 Giant centipede  8 Survival 0.0000 +/- 0.0000
+Level  1 Giant centipede 16 Survival 0.0000 +/- 0.0000
+Level  2 Giant centipede  1 Survival 3.9720 +/- 0.1710
+Level  2 Giant centipede  2 Survival 3.8930 +/- 0.3843
+Level  2 Giant centipede  4 Survival 3.1680 +/- 1.3504
+Level  2 Giant centipede  8 Survival 0.0570 +/- 0.4427
+Level  2 Giant centipede 16 Survival 0.0000 +/- 0.0000
+Level  3 Giant centipede  1 Survival 3.9990 +/- 0.0316
+Level  3 Giant centipede  2 Survival 3.9940 +/- 0.0773
+Level  3 Giant centipede  4 Survival 3.8730 +/- 0.4828
+Level  3 Giant centipede  8 Survival 1.2190 +/- 1.6846
+Level  3 Giant centipede 16 Survival 0.0000 +/- 0.0000
+Level  4 Giant centipede  1 Survival 4.0000 +/- 0.0000
+Level  4 Giant centipede  2 Survival 3.9990 +/- 0.0316
+Level  4 Giant centipede  4 Survival 3.9740 +/- 0.1771
+Level  4 Giant centipede  8 Survival 2.9660 +/- 1.4990
+Level  4 Giant centipede 16 Survival 0.0000 +/- 0.0000
+Level  5 Giant centipede  1 Survival 4.0000 +/- 0.0000
+Level  5 Giant centipede  2 Survival 3.9990 +/- 0.0316
+Level  5 Giant centipede  4 Survival 3.9960 +/- 0.0632
+Level  5 Giant centipede  8 Survival 3.9490 +/- 0.2941
+Level  5 Giant centipede 16 Survival 0.8650 +/- 1.4487
+Level  6 Giant centipede  1 Survival 4.0000 +/- 0.0000
+Level  6 Giant centipede  2 Survival 4.0000 +/- 0.0000
+Level  6 Giant centipede  4 Survival 4.0000 +/- 0.0000
+Level  6 Giant centipede  8 Survival 3.9910 +/- 0.1045
+Level  6 Giant centipede 16 Survival 2.8630 +/- 1.6158
+Level  7 Giant centipede  1 Survival 4.0000 +/- 0.0000
+Level  7 Giant centipede  2 Survival 4.0000 +/- 0.0000
+Level  7 Giant centipede  4 Survival 4.0000 +/- 0.0000
+Level  7 Giant centipede  8 Survival 3.9990 +/- 0.0316
+Level  7 Giant centipede 16 Survival 3.3570 +/- 1.2865
+Level  8 Giant centipede  1 Survival 4.0000 +/- 0.0000
+Level  8 Giant centipede  2 Survival 4.0000 +/- 0.0000
+Level  8 Giant centipede  4 Survival 4.0000 +/- 0.0000
+Level  8 Giant centipede  8 Survival 4.0000 +/- 0.0000
+Level  8 Giant centipede 16 Survival 3.8030 +/- 0.6860
+Level  1 Goblin  1 Survival 3.9380 +/- 0.2797
+Level  1 Goblin  2 Survival 3.2000 +/- 1.3014
+Level  1 Goblin  4 Survival 0.0330 +/- 0.3225
+Level  1 Goblin  8 Survival 0.0000 +/- 0.0000
+Level  1 Goblin 16 Survival 0.0000 +/- 0.0000
+Level  2 Goblin  1 Survival 4.0000 +/- 0.0000
+Level  2 Goblin  2 Survival 3.9830 +/- 0.1508
+Level  2 Goblin  4 Survival 2.6610 +/- 1.7530
+Level  2 Goblin  8 Survival 0.0000 +/- 0.0000
+Level  2 Goblin 16 Survival 0.0000 +/- 0.0000
+Level  3 Goblin  1 Survival 4.0000 +/- 0.0000
+Level  3 Goblin  2 Survival 3.9980 +/- 0.0447
+Level  3 Goblin  4 Survival 3.9130 +/- 0.4771
+Level  3 Goblin  8 Survival 0.0520 +/- 0.4307
+Level  3 Goblin 16 Survival 0.0000 +/- 0.0000
+Level  4 Goblin  1 Survival 4.0000 +/- 0.0000
+Level  4 Goblin  2 Survival 4.0000 +/- 0.0000
+Level  4 Goblin  4 Survival 3.9950 +/- 0.1140
+Level  4 Goblin  8 Survival 1.6440 +/- 1.8228
+Level  4 Goblin 16 Survival 0.0000 +/- 0.0000
+Level  5 Goblin  1 Survival 4.0000 +/- 0.0000
+Level  5 Goblin  2 Survival 4.0000 +/- 0.0000
+Level  5 Goblin  4 Survival 4.0000 +/- 0.0000
+Level  5 Goblin  8 Survival 3.9890 +/- 0.1220
+Level  5 Goblin 16 Survival 0.0190 +/- 0.2583
+Level  6 Goblin  1 Survival 4.0000 +/- 0.0000
+Level  6 Goblin  2 Survival 4.0000 +/- 0.0000
+Level  6 Goblin  4 Survival 4.0000 +/- 0.0000
+Level  6 Goblin  8 Survival 4.0000 +/- 0.0000
+Level  6 Goblin 16 Survival 1.8310 +/- 1.7770
+Level  7 Goblin  1 Survival 4.0000 +/- 0.0000
+Level  7 Goblin  2 Survival 4.0000 +/- 0.0000
+Level  7 Goblin  4 Survival 4.0000 +/- 0.0000
+Level  7 Goblin  8 Survival 4.0000 +/- 0.0000
+Level  7 Goblin 16 Survival 2.8700 +/- 1.5961
+Level  8 Goblin  1 Survival 4.0000 +/- 0.0000
+Level  8 Goblin  2 Survival 4.0000 +/- 0.0000
+Level  8 Goblin  4 Survival 4.0000 +/- 0.0000
+Level  8 Goblin  8 Survival 4.0000 +/- 0.0000
+Level  8 Goblin 16 Survival 3.8280 +/- 0.6533
+Level  1 Wolf  1 Survival 3.9510 +/- 0.2503
+Level  1 Wolf  2 Survival 2.9930 +/- 1.4293
+Level  1 Wolf  4 Survival 0.0000 +/- 0.0000
+Level  1 Wolf  8 Survival 0.0000 +/- 0.0000
+Level  1 Wolf 16 Survival 0.0000 +/- 0.0000
+Level  2 Wolf  1 Survival 3.9960 +/- 0.0632
+Level  2 Wolf  2 Survival 3.9380 +/- 0.2688
+Level  2 Wolf  4 Survival 1.4150 +/- 1.7663
+Level  2 Wolf  8 Survival 0.0000 +/- 0.0000
+Level  2 Wolf 16 Survival 0.0000 +/- 0.0000
+Level  3 Wolf  1 Survival 4.0000 +/- 0.0000
+Level  3 Wolf  2 Survival 3.9950 +/- 0.0706
+Level  3 Wolf  4 Survival 3.7250 +/- 0.8367
+Level  3 Wolf  8 Survival 0.0010 +/- 0.0316
+Level  3 Wolf 16 Survival 0.0000 +/- 0.0000
+Level  4 Wolf  1 Survival 4.0000 +/- 0.0000
+Level  4 Wolf  2 Survival 4.0000 +/- 0.0000
+Level  4 Wolf  4 Survival 3.9870 +/- 0.1298
+Level  4 Wolf  8 Survival 0.6050 +/- 1.3163
+Level  4 Wolf 16 Survival 0.0000 +/- 0.0000
+Level  5 Wolf  1 Survival 4.0000 +/- 0.0000
+Level  5 Wolf  2 Survival 4.0000 +/- 0.0000
+Level  5 Wolf  4 Survival 4.0000 +/- 0.0000
+Level  5 Wolf  8 Survival 3.9320 +/- 0.3428
+Level  5 Wolf 16 Survival 0.0000 +/- 0.0000
+Level  6 Wolf  1 Survival 4.0000 +/- 0.0000
+Level  6 Wolf  2 Survival 4.0000 +/- 0.0000
+Level  6 Wolf  4 Survival 4.0000 +/- 0.0000
+Level  6 Wolf  8 Survival 3.9970 +/- 0.0547
+Level  6 Wolf 16 Survival 0.5210 +/- 1.2104
+Level  7 Wolf  1 Survival 4.0000 +/- 0.0000
+Level  7 Wolf  2 Survival 4.0000 +/- 0.0000
+Level  7 Wolf  4 Survival 4.0000 +/- 0.0000
+Level  7 Wolf  8 Survival 3.9990 +/- 0.0316
+Level  7 Wolf 16 Survival 1.4190 +/- 1.7258
+Level  8 Wolf  1 Survival 4.0000 +/- 0.0000
+Level  8 Wolf  2 Survival 4.0000 +/- 0.0000
+Level  8 Wolf  4 Survival 4.0000 +/- 0.0000
+Level  8 Wolf  8 Survival 3.9990 +/- 0.0316
+Level  8 Wolf 16 Survival 3.0630 +/- 1.4544
+Level  1 Zombie  1 Survival 3.9730 +/- 0.1741
+Level  1 Zombie  2 Survival 3.3270 +/- 1.1015
+Level  1 Zombie  4 Survival 0.0120 +/- 0.1947
+Level  1 Zombie  8 Survival 0.0000 +/- 0.0000
+Level  1 Zombie 16 Survival 0.0000 +/- 0.0000
+Level  2 Zombie  1 Survival 4.0000 +/- 0.0000
+Level  2 Zombie  2 Survival 3.9810 +/- 0.1505
+Level  2 Zombie  4 Survival 2.3860 +/- 1.6024
+Level  2 Zombie  8 Survival 0.0000 +/- 0.0000
+Level  2 Zombie 16 Survival 0.0000 +/- 0.0000
+Level  3 Zombie  1 Survival 4.0000 +/- 0.0000
+Level  3 Zombie  2 Survival 4.0000 +/- 0.0000
+Level  3 Zombie  4 Survival 3.9060 +/- 0.3366
+Level  3 Zombie  8 Survival 0.0620 +/- 0.3825
+Level  3 Zombie 16 Survival 0.0000 +/- 0.0000
+Level  4 Zombie  1 Survival 4.0000 +/- 0.0000
+Level  4 Zombie  2 Survival 4.0000 +/- 0.0000
+Level  4 Zombie  4 Survival 3.9970 +/- 0.0547
+Level  4 Zombie  8 Survival 2.0230 +/- 1.3358
+Level  4 Zombie 16 Survival 0.0000 +/- 0.0000
+Level  5 Zombie  1 Survival 4.0000 +/- 0.0000
+Level  5 Zombie  2 Survival 4.0000 +/- 0.0000
+Level  5 Zombie  4 Survival 4.0000 +/- 0.0000
+Level  5 Zombie  8 Survival 3.9640 +/- 0.1864
+Level  5 Zombie 16 Survival 0.3590 +/- 0.8067
+Level  6 Zombie  1 Survival 4.0000 +/- 0.0000
+Level  6 Zombie  2 Survival 4.0000 +/- 0.0000
+Level  6 Zombie  4 Survival 4.0000 +/- 0.0000
+Level  6 Zombie  8 Survival 3.9990 +/- 0.0316
+Level  6 Zombie 16 Survival 2.4790 +/- 0.9394
+Level  7 Zombie  1 Survival 4.0000 +/- 0.0000
+Level  7 Zombie  2 Survival 4.0000 +/- 0.0000
+Level  7 Zombie  4 Survival 4.0000 +/- 0.0000
+Level  7 Zombie  8 Survival 3.9990 +/- 0.0316
+Level  7 Zombie 16 Survival 2.8730 +/- 0.6027
+Level  8 Zombie  1 Survival 4.0000 +/- 0.0000
+Level  8 Zombie  2 Survival 4.0000 +/- 0.0000
+Level  8 Zombie  4 Survival 4.0000 +/- 0.0000
+Level  8 Zombie  8 Survival 4.0000 +/- 0.0000
+Level  8 Zombie 16 Survival 3.1530 +/- 0.4558
+Level  1 Gnoll  1 Survival 3.8210 +/- 0.5012
+Level  1 Gnoll  2 Survival 1.3970 +/- 1.6590
+Level  1 Gnoll  4 Survival 0.0000 +/- 0.0000
+Level  1 Gnoll  8 Survival 0.0000 +/- 0.0000
+Level  1 Gnoll 16 Survival 0.0000 +/- 0.0000
+Level  2 Gnoll  1 Survival 3.9960 +/- 0.0632
+Level  2 Gnoll  2 Survival 3.8540 +/- 0.5147
+Level  2 Gnoll  4 Survival 0.2290 +/- 0.8839
+Level  2 Gnoll  8 Survival 0.0000 +/- 0.0000
+Level  2 Gnoll 16 Survival 0.0000 +/- 0.0000
+Level  3 Gnoll  1 Survival 4.0000 +/- 0.0000
+Level  3 Gnoll  2 Survival 3.9970 +/- 0.0547
+Level  3 Gnoll  4 Survival 3.4410 +/- 1.2280
+Level  3 Gnoll  8 Survival 0.0000 +/- 0.0000
+Level  3 Gnoll 16 Survival 0.0000 +/- 0.0000
+Level  4 Gnoll  1 Survival 4.0000 +/- 0.0000
+Level  4 Gnoll  2 Survival 4.0000 +/- 0.0000
+Level  4 Gnoll  4 Survival 3.9590 +/- 0.2922
+Level  4 Gnoll  8 Survival 0.0290 +/- 0.3103
+Level  4 Gnoll 16 Survival 0.0000 +/- 0.0000
+Level  5 Gnoll  1 Survival 4.0000 +/- 0.0000
+Level  5 Gnoll  2 Survival 4.0000 +/- 0.0000
+Level  5 Gnoll  4 Survival 4.0000 +/- 0.0000
+Level  5 Gnoll  8 Survival 3.8580 +/- 0.5763
+Level  5 Gnoll 16 Survival 0.0000 +/- 0.0000
+Level  6 Gnoll  1 Survival 4.0000 +/- 0.0000
+Level  6 Gnoll  2 Survival 4.0000 +/- 0.0000
+Level  6 Gnoll  4 Survival 4.0000 +/- 0.0000
+Level  6 Gnoll  8 Survival 3.9960 +/- 0.0632
+Level  6 Gnoll 16 Survival 0.0830 +/- 0.4673
+Level  7 Gnoll  1 Survival 4.0000 +/- 0.0000
+Level  7 Gnoll  2 Survival 4.0000 +/- 0.0000
+Level  7 Gnoll  4 Survival 4.0000 +/- 0.0000
+Level  7 Gnoll  8 Survival 4.0000 +/- 0.0000
+Level  7 Gnoll 16 Survival 0.6900 +/- 1.2671
+Level  8 Gnoll  1 Survival 4.0000 +/- 0.0000
+Level  8 Gnoll  2 Survival 4.0000 +/- 0.0000
+Level  8 Gnoll  4 Survival 4.0000 +/- 0.0000
+Level  8 Gnoll  8 Survival 4.0000 +/- 0.0000
+Level  8 Gnoll 16 Survival 2.7640 +/- 1.4291
+Level  1 Hobgoblin  1 Survival 3.8880 +/- 0.4094
+Level  1 Hobgoblin  2 Survival 1.1240 +/- 1.5585
+Level  1 Hobgoblin  4 Survival 0.0000 +/- 0.0000
+Level  1 Hobgoblin  8 Survival 0.0000 +/- 0.0000
+Level  1 Hobgoblin 16 Survival 0.0000 +/- 0.0000
+Level  2 Hobgoblin  1 Survival 4.0000 +/- 0.0000
+Level  2 Hobgoblin  2 Survival 3.4630 +/- 1.1410
+Level  2 Hobgoblin  4 Survival 0.1560 +/- 0.7129
+Level  2 Hobgoblin  8 Survival 0.0000 +/- 0.0000
+Level  2 Hobgoblin 16 Survival 0.0000 +/- 0.0000
+Level  3 Hobgoblin  1 Survival 4.0000 +/- 0.0000
+Level  3 Hobgoblin  2 Survival 3.9110 +/- 0.3784
+Level  3 Hobgoblin  4 Survival 2.0620 +/- 1.8525
+Level  3 Hobgoblin  8 Survival 0.0000 +/- 0.0000
+Level  3 Hobgoblin 16 Survival 0.0000 +/- 0.0000
+Level  4 Hobgoblin  1 Survival 4.0000 +/- 0.0000
+Level  4 Hobgoblin  2 Survival 3.9800 +/- 0.1401
+Level  4 Hobgoblin  4 Survival 3.4820 +/- 1.1371
+Level  4 Hobgoblin  8 Survival 0.0010 +/- 0.0316
+Level  4 Hobgoblin 16 Survival 0.0000 +/- 0.0000
+Level  5 Hobgoblin  1 Survival 4.0000 +/- 0.0000
+Level  5 Hobgoblin  2 Survival 3.9970 +/- 0.0547
+Level  5 Hobgoblin  4 Survival 3.9820 +/- 0.1330
+Level  5 Hobgoblin  8 Survival 2.6780 +/- 1.7261
+Level  5 Hobgoblin 16 Survival 0.0000 +/- 0.0000
+Level  6 Hobgoblin  1 Survival 4.0000 +/- 0.0000
+Level  6 Hobgoblin  2 Survival 4.0000 +/- 0.0000
+Level  6 Hobgoblin  4 Survival 3.9970 +/- 0.0547
+Level  6 Hobgoblin  8 Survival 3.7110 +/- 0.8569
+Level  6 Hobgoblin 16 Survival 0.0010 +/- 0.0316
+Level  7 Hobgoblin  1 Survival 4.0000 +/- 0.0000
+Level  7 Hobgoblin  2 Survival 4.0000 +/- 0.0000
+Level  7 Hobgoblin  4 Survival 3.9970 +/- 0.0707
+Level  7 Hobgoblin  8 Survival 3.8680 +/- 0.6091
+Level  7 Hobgoblin 16 Survival 0.0130 +/- 0.2118
+Level  8 Hobgoblin  1 Survival 4.0000 +/- 0.0000
+Level  8 Hobgoblin  2 Survival 4.0000 +/- 0.0000
+Level  8 Hobgoblin  4 Survival 4.0000 +/- 0.0000
+Level  8 Hobgoblin  8 Survival 3.9750 +/- 0.1960
+Level  8 Hobgoblin 16 Survival 0.5400 +/- 1.2417
+Level  1 Orc  1 Survival 3.5330 +/- 0.9054
+Level  1 Orc  2 Survival 0.9490 +/- 1.4617
+Level  1 Orc  4 Survival 0.0000 +/- 0.0000
+Level  1 Orc  8 Survival 0.0000 +/- 0.0000
+Level  1 Orc 16 Survival 0.0000 +/- 0.0000
+Level  2 Orc  1 Survival 3.9650 +/- 0.2363
+Level  2 Orc  2 Survival 3.5910 +/- 0.9760
+Level  2 Orc  4 Survival 0.1460 +/- 0.6687
+Level  2 Orc  8 Survival 0.0000 +/- 0.0000
+Level  2 Orc 16 Survival 0.0000 +/- 0.0000
+Level  3 Orc  1 Survival 3.9970 +/- 0.0547
+Level  3 Orc  2 Survival 3.9750 +/- 0.1625
+Level  3 Orc  4 Survival 2.7310 +/- 1.6892
+Level  3 Orc  8 Survival 0.0000 +/- 0.0000
+Level  3 Orc 16 Survival 0.0000 +/- 0.0000
+Level  4 Orc  1 Survival 4.0000 +/- 0.0000
+Level  4 Orc  2 Survival 3.9960 +/- 0.0632
+Level  4 Orc  4 Survival 3.7990 +/- 0.6805
+Level  4 Orc  8 Survival 0.0160 +/- 0.2404
+Level  4 Orc 16 Survival 0.0000 +/- 0.0000
+Level  5 Orc  1 Survival 4.0000 +/- 0.0000
+Level  5 Orc  2 Survival 4.0000 +/- 0.0000
+Level  5 Orc  4 Survival 3.9940 +/- 0.0773
+Level  5 Orc  8 Survival 3.2400 +/- 1.3756
+Level  5 Orc 16 Survival 0.0000 +/- 0.0000
+Level  6 Orc  1 Survival 4.0000 +/- 0.0000
+Level  6 Orc  2 Survival 4.0000 +/- 0.0000
+Level  6 Orc  4 Survival 4.0000 +/- 0.0000
+Level  6 Orc  8 Survival 3.8790 +/- 0.5354
+Level  6 Orc 16 Survival 0.0040 +/- 0.1265
+Level  7 Orc  1 Survival 4.0000 +/- 0.0000
+Level  7 Orc  2 Survival 4.0000 +/- 0.0000
+Level  7 Orc  4 Survival 4.0000 +/- 0.0000
+Level  7 Orc  8 Survival 3.9690 +/- 0.2282
+Level  7 Orc 16 Survival 0.0250 +/- 0.2940
+Level  8 Orc  1 Survival 4.0000 +/- 0.0000
+Level  8 Orc  2 Survival 4.0000 +/- 0.0000
+Level  8 Orc  4 Survival 4.0000 +/- 0.0000
+Level  8 Orc  8 Survival 3.9890 +/- 0.1300
+Level  8 Orc 16 Survival 0.8280 +/- 1.4500
+Level  1 Thug  1 Survival 3.0820 +/- 1.3316
+Level  1 Thug  2 Survival 0.0000 +/- 0.0000
+Level  1 Thug  4 Survival 0.0000 +/- 0.0000
+Level  1 Thug  8 Survival 0.0000 +/- 0.0000
+Level  1 Thug 16 Survival 0.0000 +/- 0.0000
+Level  2 Thug  1 Survival 3.9640 +/- 0.2297
+Level  2 Thug  2 Survival 0.7480 +/- 1.4692
+Level  2 Thug  4 Survival 0.0000 +/- 0.0000
+Level  2 Thug  8 Survival 0.0000 +/- 0.0000
+Level  2 Thug 16 Survival 0.0000 +/- 0.0000
+Level  3 Thug  1 Survival 4.0000 +/- 0.0000
+Level  3 Thug  2 Survival 3.8030 +/- 0.7005
+Level  3 Thug  4 Survival 0.0000 +/- 0.0000
+Level  3 Thug  8 Survival 0.0000 +/- 0.0000
+Level  3 Thug 16 Survival 0.0000 +/- 0.0000
+Level  4 Thug  1 Survival 4.0000 +/- 0.0000
+Level  4 Thug  2 Survival 3.9830 +/- 0.1508
+Level  4 Thug  4 Survival 0.2510 +/- 0.8430
+Level  4 Thug  8 Survival 0.0000 +/- 0.0000
+Level  4 Thug 16 Survival 0.0000 +/- 0.0000
+Level  5 Thug  1 Survival 4.0000 +/- 0.0000
+Level  5 Thug  2 Survival 4.0000 +/- 0.0000
+Level  5 Thug  4 Survival 3.9220 +/- 0.3925
+Level  5 Thug  8 Survival 0.0000 +/- 0.0000
+Level  5 Thug 16 Survival 0.0000 +/- 0.0000
+Level  6 Thug  1 Survival 4.0000 +/- 0.0000
+Level  6 Thug  2 Survival 4.0000 +/- 0.0000
+Level  6 Thug  4 Survival 3.9940 +/- 0.0893
+Level  6 Thug  8 Survival 0.1640 +/- 0.6630
+Level  6 Thug 16 Survival 0.0000 +/- 0.0000
+Level  7 Thug  1 Survival 4.0000 +/- 0.0000
+Level  7 Thug  2 Survival 4.0000 +/- 0.0000
+Level  7 Thug  4 Survival 3.9990 +/- 0.0316
+Level  7 Thug  8 Survival 0.9660 +/- 1.4775
+Level  7 Thug 16 Survival 0.0000 +/- 0.0000
+Level  8 Thug  1 Survival 4.0000 +/- 0.0000
+Level  8 Thug  2 Survival 4.0000 +/- 0.0000
+Level  8 Thug  4 Survival 3.9990 +/- 0.0316
+Level  8 Thug  8 Survival 2.8530 +/- 1.5025
+Level  8 Thug 16 Survival 0.0000 +/- 0.0000
+Level  1 Worg  1 Survival 2.5890 +/- 1.5233
+Level  1 Worg  2 Survival 0.0260 +/- 0.2518
+Level  1 Worg  4 Survival 0.0000 +/- 0.0000
+Level  1 Worg  8 Survival 0.0000 +/- 0.0000
+Level  1 Worg 16 Survival 0.0000 +/- 0.0000
+Level  2 Worg  1 Survival 3.8950 +/- 0.3849
+Level  2 Worg  2 Survival 2.2160 +/- 1.8157
+Level  2 Worg  4 Survival 0.0000 +/- 0.0000
+Level  2 Worg  8 Survival 0.0000 +/- 0.0000
+Level  2 Worg 16 Survival 0.0000 +/- 0.0000
+Level  3 Worg  1 Survival 3.9960 +/- 0.0632
+Level  3 Worg  2 Survival 3.8630 +/- 0.4965
+Level  3 Worg  4 Survival 0.2990 +/- 0.9729
+Level  3 Worg  8 Survival 0.0000 +/- 0.0000
+Level  3 Worg 16 Survival 0.0000 +/- 0.0000
+Level  4 Worg  1 Survival 4.0000 +/- 0.0000
+Level  4 Worg  2 Survival 3.9830 +/- 0.1508
+Level  4 Worg  4 Survival 2.2270 +/- 1.8035
+Level  4 Worg  8 Survival 0.0000 +/- 0.0000
+Level  4 Worg 16 Survival 0.0000 +/- 0.0000
+Level  5 Worg  1 Survival 4.0000 +/- 0.0000
+Level  5 Worg  2 Survival 3.9990 +/- 0.0316
+Level  5 Worg  4 Survival 3.9630 +/- 0.2640
+Level  5 Worg  8 Survival 0.4340 +/- 1.1580
+Level  5 Worg 16 Survival 0.0000 +/- 0.0000
+Level  6 Worg  1 Survival 4.0000 +/- 0.0000
+Level  6 Worg  2 Survival 4.0000 +/- 0.0000
+Level  6 Worg  4 Survival 3.9920 +/- 0.0997
+Level  6 Worg  8 Survival 2.6240 +/- 1.7475
+Level  6 Worg 16 Survival 0.0000 +/- 0.0000
+Level  7 Worg  1 Survival 4.0000 +/- 0.0000
+Level  7 Worg  2 Survival 4.0000 +/- 0.0000
+Level  7 Worg  4 Survival 4.0000 +/- 0.0000
+Level  7 Worg  8 Survival 3.3890 +/- 1.2959
+Level  7 Worg 16 Survival 0.0000 +/- 0.0000
+Level  8 Worg  1 Survival 4.0000 +/- 0.0000
+Level  8 Worg  2 Survival 4.0000 +/- 0.0000
+Level  8 Worg  4 Survival 4.0000 +/- 0.0000
+Level  8 Worg  8 Survival 3.8470 +/- 0.6049
+Level  8 Worg 16 Survival 0.0000 +/- 0.0000
+Level  1 Bugbear  1 Survival 1.1590 +/- 1.5304
+Level  1 Bugbear  2 Survival 0.0000 +/- 0.0000
+Level  1 Bugbear  4 Survival 0.0000 +/- 0.0000
+Level  1 Bugbear  8 Survival 0.0000 +/- 0.0000
+Level  1 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  2 Bugbear  1 Survival 3.3070 +/- 1.1782
+Level  2 Bugbear  2 Survival 0.4720 +/- 1.1818
+Level  2 Bugbear  4 Survival 0.0000 +/- 0.0000
+Level  2 Bugbear  8 Survival 0.0000 +/- 0.0000
+Level  2 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  3 Bugbear  1 Survival 3.8890 +/- 0.3909
+Level  3 Bugbear  2 Survival 2.7440 +/- 1.6307
+Level  3 Bugbear  4 Survival 0.0060 +/- 0.1182
+Level  3 Bugbear  8 Survival 0.0000 +/- 0.0000
+Level  3 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  4 Bugbear  1 Survival 3.9600 +/- 0.2011
+Level  4 Bugbear  2 Survival 3.6440 +/- 0.8718
+Level  4 Bugbear  4 Survival 0.3720 +/- 1.0634
+Level  4 Bugbear  8 Survival 0.0000 +/- 0.0000
+Level  4 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  5 Bugbear  1 Survival 3.9900 +/- 0.0995
+Level  5 Bugbear  2 Survival 3.9620 +/- 0.2064
+Level  5 Bugbear  4 Survival 3.3590 +/- 1.2360
+Level  5 Bugbear  8 Survival 0.0070 +/- 0.1448
+Level  5 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  6 Bugbear  1 Survival 3.9990 +/- 0.0316
+Level  6 Bugbear  2 Survival 3.9890 +/- 0.1135
+Level  6 Bugbear  4 Survival 3.8600 +/- 0.5086
+Level  6 Bugbear  8 Survival 0.5700 +/- 1.2926
+Level  6 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  7 Bugbear  1 Survival 4.0000 +/- 0.0000
+Level  7 Bugbear  2 Survival 3.9980 +/- 0.0447
+Level  7 Bugbear  4 Survival 3.9300 +/- 0.3274
+Level  7 Bugbear  8 Survival 1.4750 +/- 1.7991
+Level  7 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  8 Bugbear  1 Survival 4.0000 +/- 0.0000
+Level  8 Bugbear  2 Survival 4.0000 +/- 0.0000
+Level  8 Bugbear  4 Survival 3.9800 +/- 0.1470
+Level  8 Bugbear  8 Survival 2.7960 +/- 1.6447
+Level  8 Bugbear 16 Survival 0.0000 +/- 0.0000
+Level  1 Ghoul  1 Survival 3.7590 +/- 0.6429
+Level  1 Ghoul  2 Survival 1.2220 +/- 1.5809
+Level  1 Ghoul  4 Survival 0.0000 +/- 0.0000
+Level  1 Ghoul  8 Survival 0.0000 +/- 0.0000
+Level  1 Ghoul 16 Survival 0.0000 +/- 0.0000
+Level  2 Ghoul  1 Survival 3.9880 +/- 0.1178
+Level  2 Ghoul  2 Survival 3.6550 +/- 0.8395
+Level  2 Ghoul  4 Survival 0.0580 +/- 0.4205
+Level  2 Ghoul  8 Survival 0.0000 +/- 0.0000
+Level  2 Ghoul 16 Survival 0.0000 +/- 0.0000
+Level  3 Ghoul  1 Survival 3.9990 +/- 0.0316
+Level  3 Ghoul  2 Survival 3.9850 +/- 0.1216
+Level  3 Ghoul  4 Survival 2.4720 +/- 1.6272
+Level  3 Ghoul  8 Survival 0.0000 +/- 0.0000
+Level  3 Ghoul 16 Survival 0.0000 +/- 0.0000
+Level  4 Ghoul  1 Survival 4.0000 +/- 0.0000
+Level  4 Ghoul  2 Survival 3.9990 +/- 0.0316
+Level  4 Ghoul  4 Survival 3.7360 +/- 0.6963
+Level  4 Ghoul  8 Survival 0.0000 +/- 0.0000
+Level  4 Ghoul 16 Survival 0.0000 +/- 0.0000
+Level  5 Ghoul  1 Survival 4.0000 +/- 0.0000
+Level  5 Ghoul  2 Survival 4.0000 +/- 0.0000
+Level  5 Ghoul  4 Survival 3.9940 +/- 0.0773
+Level  5 Ghoul  8 Survival 2.6160 +/- 1.4740
+Level  5 Ghoul 16 Survival 0.0000 +/- 0.0000
+Level  6 Ghoul  1 Survival 4.0000 +/- 0.0000
+Level  6 Ghoul  2 Survival 4.0000 +/- 0.0000
+Level  6 Ghoul  4 Survival 4.0000 +/- 0.0000
+Level  6 Ghoul  8 Survival 3.6270 +/- 0.8164
+Level  6 Ghoul 16 Survival 0.0000 +/- 0.0000
+Level  7 Ghoul  1 Survival 4.0000 +/- 0.0000
+Level  7 Ghoul  2 Survival 4.0000 +/- 0.0000
+Level  7 Ghoul  4 Survival 3.9990 +/- 0.0316
+Level  7 Ghoul  8 Survival 3.8320 +/- 0.5604
+Level  7 Ghoul 16 Survival 0.0000 +/- 0.0000
+Level  8 Ghoul  1 Survival 4.0000 +/- 0.0000
+Level  8 Ghoul  2 Survival 4.0000 +/- 0.0000
+Level  8 Ghoul  4 Survival 4.0000 +/- 0.0000
+Level  8 Ghoul  8 Survival 3.9920 +/- 0.1093
+Level  8 Ghoul 16 Survival 0.1640 +/- 0.6257
+Level  1 Giant spider  1 Survival 3.9250 +/- 0.3154
+Level  1 Giant spider  2 Survival 1.0850 +/- 1.5938
+Level  1 Giant spider  4 Survival 0.0000 +/- 0.0000
+Level  1 Giant spider  8 Survival 0.0000 +/- 0.0000
+Level  1 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  2 Giant spider  1 Survival 3.9930 +/- 0.0947
+Level  2 Giant spider  2 Survival 3.5500 +/- 1.1396
+Level  2 Giant spider  4 Survival 0.0000 +/- 0.0000
+Level  2 Giant spider  8 Survival 0.0000 +/- 0.0000
+Level  2 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  3 Giant spider  1 Survival 4.0000 +/- 0.0000
+Level  3 Giant spider  2 Survival 3.9710 +/- 0.2650
+Level  3 Giant spider  4 Survival 0.3140 +/- 1.0433
+Level  3 Giant spider  8 Survival 0.0000 +/- 0.0000
+Level  3 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  4 Giant spider  1 Survival 4.0000 +/- 0.0000
+Level  4 Giant spider  2 Survival 3.9880 +/- 0.1609
+Level  4 Giant spider  4 Survival 2.0110 +/- 1.9351
+Level  4 Giant spider  8 Survival 0.0000 +/- 0.0000
+Level  4 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  5 Giant spider  1 Survival 4.0000 +/- 0.0000
+Level  5 Giant spider  2 Survival 4.0000 +/- 0.0000
+Level  5 Giant spider  4 Survival 3.9640 +/- 0.3111
+Level  5 Giant spider  8 Survival 0.0040 +/- 0.1265
+Level  5 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  6 Giant spider  1 Survival 4.0000 +/- 0.0000
+Level  6 Giant spider  2 Survival 4.0000 +/- 0.0000
+Level  6 Giant spider  4 Survival 3.9980 +/- 0.0447
+Level  6 Giant spider  8 Survival 0.2150 +/- 0.8818
+Level  6 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  7 Giant spider  1 Survival 4.0000 +/- 0.0000
+Level  7 Giant spider  2 Survival 4.0000 +/- 0.0000
+Level  7 Giant spider  4 Survival 3.9970 +/- 0.0707
+Level  7 Giant spider  8 Survival 0.7360 +/- 1.5148
+Level  7 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  8 Giant spider  1 Survival 4.0000 +/- 0.0000
+Level  8 Giant spider  2 Survival 4.0000 +/- 0.0000
+Level  8 Giant spider  4 Survival 4.0000 +/- 0.0000
+Level  8 Giant spider  8 Survival 2.5070 +/- 1.8750
+Level  8 Giant spider 16 Survival 0.0000 +/- 0.0000
+Level  1 Specter  1 Survival 1.0700 +/- 1.4667
+Level  1 Specter  2 Survival 0.0000 +/- 0.0000
+Level  1 Specter  4 Survival 0.0000 +/- 0.0000
+Level  1 Specter  8 Survival 0.0000 +/- 0.0000
+Level  1 Specter 16 Survival 0.0000 +/- 0.0000
+Level  2 Specter  1 Survival 3.4220 +/- 0.9964
+Level  2 Specter  2 Survival 0.2410 +/- 0.7985
+Level  2 Specter  4 Survival 0.0000 +/- 0.0000
+Level  2 Specter  8 Survival 0.0000 +/- 0.0000
+Level  2 Specter 16 Survival 0.0000 +/- 0.0000
+Level  3 Specter  1 Survival 3.9080 +/- 0.3517
+Level  3 Specter  2 Survival 2.4800 +/- 1.5805
+Level  3 Specter  4 Survival 0.0000 +/- 0.0000
+Level  3 Specter  8 Survival 0.0000 +/- 0.0000
+Level  3 Specter 16 Survival 0.0000 +/- 0.0000
+Level  4 Specter  1 Survival 3.9820 +/- 0.1330
+Level  4 Specter  2 Survival 3.6060 +/- 0.8411
+Level  4 Specter  4 Survival 0.0160 +/- 0.2093
+Level  4 Specter  8 Survival 0.0000 +/- 0.0000
+Level  4 Specter 16 Survival 0.0000 +/- 0.0000
+Level  5 Specter  1 Survival 3.9990 +/- 0.0316
+Level  5 Specter  2 Survival 3.9820 +/- 0.1330
+Level  5 Specter  4 Survival 3.2540 +/- 1.1674
+Level  5 Specter  8 Survival 0.0000 +/- 0.0000
+Level  5 Specter 16 Survival 0.0000 +/- 0.0000
+Level  6 Specter  1 Survival 4.0000 +/- 0.0000
+Level  6 Specter  2 Survival 3.9990 +/- 0.0316
+Level  6 Specter  4 Survival 3.9520 +/- 0.2318
+Level  6 Specter  8 Survival 1.2150 +/- 1.5123
+Level  6 Specter 16 Survival 0.0000 +/- 0.0000
+Level  7 Specter  1 Survival 4.0000 +/- 0.0000
+Level  7 Specter  2 Survival 4.0000 +/- 0.0000
+Level  7 Specter  4 Survival 3.9830 +/- 0.1293
+Level  7 Specter  8 Survival 2.1230 +/- 1.5800
+Level  7 Specter 16 Survival 0.0000 +/- 0.0000
+Level  8 Specter  1 Survival 4.0000 +/- 0.0000
+Level  8 Specter  2 Survival 4.0000 +/- 0.0000
+Level  8 Specter  4 Survival 3.9970 +/- 0.0547
+Level  8 Specter  8 Survival 3.5950 +/- 0.8943
+Level  8 Specter 16 Survival 0.0000 +/- 0.0000
+Level  1 Spy  1 Survival 1.9330 +/- 1.7360
+Level  1 Spy  2 Survival 0.0000 +/- 0.0000
+Level  1 Spy  4 Survival 0.0000 +/- 0.0000
+Level  1 Spy  8 Survival 0.0000 +/- 0.0000
+Level  1 Spy 16 Survival 0.0000 +/- 0.0000
+Level  2 Spy  1 Survival 3.7950 +/- 0.6659
+Level  2 Spy  2 Survival 0.0800 +/- 0.5290
+Level  2 Spy  4 Survival 0.0000 +/- 0.0000
+Level  2 Spy  8 Survival 0.0000 +/- 0.0000
+Level  2 Spy 16 Survival 0.0000 +/- 0.0000
+Level  3 Spy  1 Survival 3.9750 +/- 0.2155
+Level  3 Spy  2 Survival 2.3770 +/- 1.8298
+Level  3 Spy  4 Survival 0.0000 +/- 0.0000
+Level  3 Spy  8 Survival 0.0000 +/- 0.0000
+Level  3 Spy 16 Survival 0.0000 +/- 0.0000
+Level  4 Spy  1 Survival 3.9990 +/- 0.0316
+Level  4 Spy  2 Survival 3.5770 +/- 1.0579
+Level  4 Spy  4 Survival 0.0100 +/- 0.1842
+Level  4 Spy  8 Survival 0.0000 +/- 0.0000
+Level  4 Spy 16 Survival 0.0000 +/- 0.0000
+Level  5 Spy  1 Survival 4.0000 +/- 0.0000
+Level  5 Spy  2 Survival 3.9940 +/- 0.0893
+Level  5 Spy  4 Survival 3.0130 +/- 1.5509
+Level  5 Spy  8 Survival 0.0000 +/- 0.0000
+Level  5 Spy 16 Survival 0.0000 +/- 0.0000
+Level  6 Spy  1 Survival 4.0000 +/- 0.0000
+Level  6 Spy  2 Survival 3.9980 +/- 0.0447
+Level  6 Spy  4 Survival 3.8430 +/- 0.6187
+Level  6 Spy  8 Survival 0.0000 +/- 0.0000
+Level  6 Spy 16 Survival 0.0000 +/- 0.0000
+Level  7 Spy  1 Survival 4.0000 +/- 0.0000
+Level  7 Spy  2 Survival 3.9990 +/- 0.0316
+Level  7 Spy  4 Survival 3.9510 +/- 0.3142
+Level  7 Spy  8 Survival 0.0370 +/- 0.3574
+Level  7 Spy 16 Survival 0.0000 +/- 0.0000
+Level  8 Spy  1 Survival 4.0000 +/- 0.0000
+Level  8 Spy  2 Survival 4.0000 +/- 0.0000
+Level  8 Spy  4 Survival 3.9860 +/- 0.1335
+Level  8 Spy  8 Survival 0.7360 +/- 1.4277
+Level  8 Spy 16 Survival 0.0000 +/- 0.0000
+Level  1 Gelatinous cube  1 Survival 0.0000 +/- 0.0000
+Level  1 Gelatinous cube  2 Survival 0.0000 +/- 0.0000
+Level  1 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  1 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  1 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  2 Gelatinous cube  1 Survival 0.0590 +/- 0.3920
+Level  2 Gelatinous cube  2 Survival 0.0000 +/- 0.0000
+Level  2 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  2 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  2 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  3 Gelatinous cube  1 Survival 1.9070 +/- 1.8203
+Level  3 Gelatinous cube  2 Survival 0.0000 +/- 0.0000
+Level  3 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  3 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  3 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  4 Gelatinous cube  1 Survival 2.9760 +/- 1.5237
+Level  4 Gelatinous cube  2 Survival 0.0000 +/- 0.0000
+Level  4 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  4 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  4 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  5 Gelatinous cube  1 Survival 3.9770 +/- 0.2203
+Level  5 Gelatinous cube  2 Survival 1.2990 +/- 1.6614
+Level  5 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  5 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  5 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  6 Gelatinous cube  1 Survival 3.9980 +/- 0.0447
+Level  6 Gelatinous cube  2 Survival 3.0790 +/- 1.4102
+Level  6 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  6 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  6 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  7 Gelatinous cube  1 Survival 3.9990 +/- 0.0316
+Level  7 Gelatinous cube  2 Survival 3.7560 +/- 0.7218
+Level  7 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  7 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  7 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  8 Gelatinous cube  1 Survival 4.0000 +/- 0.0000
+Level  8 Gelatinous cube  2 Survival 3.9630 +/- 0.2443
+Level  8 Gelatinous cube  4 Survival 0.0000 +/- 0.0000
+Level  8 Gelatinous cube  8 Survival 0.0000 +/- 0.0000
+Level  8 Gelatinous cube 16 Survival 0.0000 +/- 0.0000
+Level  1 Merrow  1 Survival 0.0410 +/- 0.3598
+Level  1 Merrow  2 Survival 0.0000 +/- 0.0000
+Level  1 Merrow  4 Survival 0.0000 +/- 0.0000
+Level  1 Merrow  8 Survival 0.0000 +/- 0.0000
+Level  1 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  2 Merrow  1 Survival 2.2960 +/- 1.8016
+Level  2 Merrow  2 Survival 0.0000 +/- 0.0000
+Level  2 Merrow  4 Survival 0.0000 +/- 0.0000
+Level  2 Merrow  8 Survival 0.0000 +/- 0.0000
+Level  2 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  3 Merrow  1 Survival 3.8670 +/- 0.4853
+Level  3 Merrow  2 Survival 0.5040 +/- 1.2302
+Level  3 Merrow  4 Survival 0.0000 +/- 0.0000
+Level  3 Merrow  8 Survival 0.0000 +/- 0.0000
+Level  3 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  4 Merrow  1 Survival 3.9800 +/- 0.1940
+Level  4 Merrow  2 Survival 2.6990 +/- 1.7179
+Level  4 Merrow  4 Survival 0.0000 +/- 0.0000
+Level  4 Merrow  8 Survival 0.0000 +/- 0.0000
+Level  4 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  5 Merrow  1 Survival 3.9990 +/- 0.0316
+Level  5 Merrow  2 Survival 3.9860 +/- 0.1258
+Level  5 Merrow  4 Survival 1.2690 +/- 1.7360
+Level  5 Merrow  8 Survival 0.0000 +/- 0.0000
+Level  5 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  6 Merrow  1 Survival 4.0000 +/- 0.0000
+Level  6 Merrow  2 Survival 4.0000 +/- 0.0000
+Level  6 Merrow  4 Survival 3.1990 +/- 1.4323
+Level  6 Merrow  8 Survival 0.0000 +/- 0.0000
+Level  6 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  7 Merrow  1 Survival 4.0000 +/- 0.0000
+Level  7 Merrow  2 Survival 3.9990 +/- 0.0316
+Level  7 Merrow  4 Survival 3.8090 +/- 0.6775
+Level  7 Merrow  8 Survival 0.0000 +/- 0.0000
+Level  7 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  8 Merrow  1 Survival 4.0000 +/- 0.0000
+Level  8 Merrow  2 Survival 4.0000 +/- 0.0000
+Level  8 Merrow  4 Survival 3.9690 +/- 0.2193
+Level  8 Merrow  8 Survival 0.0030 +/- 0.0949
+Level  8 Merrow 16 Survival 0.0000 +/- 0.0000
+Level  1 Nothic  1 Survival 1.0360 +/- 1.4271
+Level  1 Nothic  2 Survival 0.0000 +/- 0.0000
+Level  1 Nothic  4 Survival 0.0000 +/- 0.0000
+Level  1 Nothic  8 Survival 0.0000 +/- 0.0000
+Level  1 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  2 Nothic  1 Survival 3.5940 +/- 0.8786
+Level  2 Nothic  2 Survival 0.2020 +/- 0.8148
+Level  2 Nothic  4 Survival 0.0000 +/- 0.0000
+Level  2 Nothic  8 Survival 0.0000 +/- 0.0000
+Level  2 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  3 Nothic  1 Survival 3.9560 +/- 0.2239
+Level  3 Nothic  2 Survival 2.6380 +/- 1.6388
+Level  3 Nothic  4 Survival 0.0000 +/- 0.0000
+Level  3 Nothic  8 Survival 0.0000 +/- 0.0000
+Level  3 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  4 Nothic  1 Survival 3.9960 +/- 0.0632
+Level  4 Nothic  2 Survival 3.7820 +/- 0.6906
+Level  4 Nothic  4 Survival 0.0080 +/- 0.1548
+Level  4 Nothic  8 Survival 0.0000 +/- 0.0000
+Level  4 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  5 Nothic  1 Survival 4.0000 +/- 0.0000
+Level  5 Nothic  2 Survival 3.9940 +/- 0.0773
+Level  5 Nothic  4 Survival 3.0150 +/- 1.4321
+Level  5 Nothic  8 Survival 0.0000 +/- 0.0000
+Level  5 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  6 Nothic  1 Survival 4.0000 +/- 0.0000
+Level  6 Nothic  2 Survival 4.0000 +/- 0.0000
+Level  6 Nothic  4 Survival 3.8710 +/- 0.4966
+Level  6 Nothic  8 Survival 0.0020 +/- 0.0632
+Level  6 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  7 Nothic  1 Survival 4.0000 +/- 0.0000
+Level  7 Nothic  2 Survival 4.0000 +/- 0.0000
+Level  7 Nothic  4 Survival 3.9680 +/- 0.2074
+Level  7 Nothic  8 Survival 0.1060 +/- 0.5050
+Level  7 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  8 Nothic  1 Survival 4.0000 +/- 0.0000
+Level  8 Nothic  2 Survival 4.0000 +/- 0.0000
+Level  8 Nothic  4 Survival 3.9980 +/- 0.0447
+Level  8 Nothic  8 Survival 1.2320 +/- 1.5061
+Level  8 Nothic 16 Survival 0.0000 +/- 0.0000
+Level  1 Ogre  1 Survival 0.1700 +/- 0.6600
+Level  1 Ogre  2 Survival 0.0000 +/- 0.0000
+Level  1 Ogre  4 Survival 0.0000 +/- 0.0000
+Level  1 Ogre  8 Survival 0.0000 +/- 0.0000
+Level  1 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  2 Ogre  1 Survival 2.9250 +/- 1.5329
+Level  2 Ogre  2 Survival 0.0060 +/- 0.1414
+Level  2 Ogre  4 Survival 0.0000 +/- 0.0000
+Level  2 Ogre  8 Survival 0.0000 +/- 0.0000
+Level  2 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  3 Ogre  1 Survival 3.9110 +/- 0.3510
+Level  3 Ogre  2 Survival 1.1920 +/- 1.6619
+Level  3 Ogre  4 Survival 0.0000 +/- 0.0000
+Level  3 Ogre  8 Survival 0.0000 +/- 0.0000
+Level  3 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  4 Ogre  1 Survival 3.9830 +/- 0.1293
+Level  4 Ogre  2 Survival 3.0330 +/- 1.4547
+Level  4 Ogre  4 Survival 0.0000 +/- 0.0000
+Level  4 Ogre  8 Survival 0.0000 +/- 0.0000
+Level  4 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  5 Ogre  1 Survival 4.0000 +/- 0.0000
+Level  5 Ogre  2 Survival 3.9840 +/- 0.1255
+Level  5 Ogre  4 Survival 1.9910 +/- 1.8017
+Level  5 Ogre  8 Survival 0.0000 +/- 0.0000
+Level  5 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  6 Ogre  1 Survival 4.0000 +/- 0.0000
+Level  6 Ogre  2 Survival 4.0000 +/- 0.0000
+Level  6 Ogre  4 Survival 3.4290 +/- 1.1508
+Level  6 Ogre  8 Survival 0.0000 +/- 0.0000
+Level  6 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  7 Ogre  1 Survival 4.0000 +/- 0.0000
+Level  7 Ogre  2 Survival 4.0000 +/- 0.0000
+Level  7 Ogre  4 Survival 3.8440 +/- 0.5531
+Level  7 Ogre  8 Survival 0.0000 +/- 0.0000
+Level  7 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  8 Ogre  1 Survival 4.0000 +/- 0.0000
+Level  8 Ogre  2 Survival 4.0000 +/- 0.0000
+Level  8 Ogre  4 Survival 3.9460 +/- 0.2986
+Level  8 Ogre  8 Survival 0.0520 +/- 0.3968
+Level  8 Ogre 16 Survival 0.0000 +/- 0.0000
+Level  1 White dragon wyrmling  1 Survival 0.0000 +/- 0.0000
+Level  1 White dragon wyrmling  2 Survival 0.0000 +/- 0.0000
+Level  1 White dragon wyrmling  4 Survival 0.0000 +/- 0.0000
+Level  1 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  1 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  2 White dragon wyrmling  1 Survival 0.2130 +/- 0.8236
+Level  2 White dragon wyrmling  2 Survival 0.0000 +/- 0.0000
+Level  2 White dragon wyrmling  4 Survival 0.0000 +/- 0.0000
+Level  2 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  2 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  3 White dragon wyrmling  1 Survival 2.3020 +/- 1.7989
+Level  3 White dragon wyrmling  2 Survival 0.0080 +/- 0.1611
+Level  3 White dragon wyrmling  4 Survival 0.0000 +/- 0.0000
+Level  3 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  3 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  4 White dragon wyrmling  1 Survival 3.6100 +/- 0.9554
+Level  4 White dragon wyrmling  2 Survival 0.2510 +/- 0.8676
+Level  4 White dragon wyrmling  4 Survival 0.0000 +/- 0.0000
+Level  4 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  4 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  5 White dragon wyrmling  1 Survival 3.9630 +/- 0.2484
+Level  5 White dragon wyrmling  2 Survival 3.2170 +/- 1.3601
+Level  5 White dragon wyrmling  4 Survival 0.0000 +/- 0.0000
+Level  5 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  5 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  6 White dragon wyrmling  1 Survival 3.9910 +/- 0.1222
+Level  6 White dragon wyrmling  2 Survival 3.8010 +/- 0.6796
+Level  6 White dragon wyrmling  4 Survival 0.1120 +/- 0.6163
+Level  6 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  6 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  7 White dragon wyrmling  1 Survival 3.9980 +/- 0.0447
+Level  7 White dragon wyrmling  2 Survival 3.9310 +/- 0.3527
+Level  7 White dragon wyrmling  4 Survival 0.5960 +/- 1.3094
+Level  7 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  7 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  8 White dragon wyrmling  1 Survival 4.0000 +/- 0.0000
+Level  8 White dragon wyrmling  2 Survival 3.9920 +/- 0.0997
+Level  8 White dragon wyrmling  4 Survival 1.8200 +/- 1.8426
+Level  8 White dragon wyrmling  8 Survival 0.0000 +/- 0.0000
+Level  8 White dragon wyrmling 16 Survival 0.0000 +/- 0.0000
+Level  1 Displacer beast  1 Survival 0.0000 +/- 0.0000
+Level  1 Displacer beast  2 Survival 0.0000 +/- 0.0000
+Level  1 Displacer beast  4 Survival 0.0000 +/- 0.0000
+Level  1 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  1 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  2 Displacer beast  1 Survival 0.0000 +/- 0.0000
+Level  2 Displacer beast  2 Survival 0.0000 +/- 0.0000
+Level  2 Displacer beast  4 Survival 0.0000 +/- 0.0000
+Level  2 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  2 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  3 Displacer beast  1 Survival 0.6790 +/- 1.3885
+Level  3 Displacer beast  2 Survival 0.0000 +/- 0.0000
+Level  3 Displacer beast  4 Survival 0.0000 +/- 0.0000
+Level  3 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  3 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  4 Displacer beast  1 Survival 2.8670 +/- 1.6130
+Level  4 Displacer beast  2 Survival 0.0000 +/- 0.0000
+Level  4 Displacer beast  4 Survival 0.0000 +/- 0.0000
+Level  4 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  4 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  5 Displacer beast  1 Survival 3.9670 +/- 0.2366
+Level  5 Displacer beast  2 Survival 2.0350 +/- 1.8312
+Level  5 Displacer beast  4 Survival 0.0000 +/- 0.0000
+Level  5 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  5 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  6 Displacer beast  1 Survival 3.9980 +/- 0.0447
+Level  6 Displacer beast  2 Survival 3.4960 +/- 1.1416
+Level  6 Displacer beast  4 Survival 0.0000 +/- 0.0000
+Level  6 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  6 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  7 Displacer beast  1 Survival 4.0000 +/- 0.0000
+Level  7 Displacer beast  2 Survival 3.8490 +/- 0.5870
+Level  7 Displacer beast  4 Survival 0.0000 +/- 0.0000
+Level  7 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  7 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  8 Displacer beast  1 Survival 4.0000 +/- 0.0000
+Level  8 Displacer beast  2 Survival 3.9800 +/- 0.1940
+Level  8 Displacer beast  4 Survival 0.2070 +/- 0.7515
+Level  8 Displacer beast  8 Survival 0.0000 +/- 0.0000
+Level  8 Displacer beast 16 Survival 0.0000 +/- 0.0000
+Level  1 Giant scorpion  1 Survival 0.0000 +/- 0.0000
+Level  1 Giant scorpion  2 Survival 0.0000 +/- 0.0000
+Level  1 Giant scorpion  4 Survival 0.0000 +/- 0.0000
+Level  1 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  1 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  2 Giant scorpion  1 Survival 0.5160 +/- 1.2391
+Level  2 Giant scorpion  2 Survival 0.0000 +/- 0.0000
+Level  2 Giant scorpion  4 Survival 0.0000 +/- 0.0000
+Level  2 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  2 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  3 Giant scorpion  1 Survival 2.5570 +/- 1.6999
+Level  3 Giant scorpion  2 Survival 0.0070 +/- 0.1580
+Level  3 Giant scorpion  4 Survival 0.0000 +/- 0.0000
+Level  3 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  3 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  4 Giant scorpion  1 Survival 3.5270 +/- 1.0170
+Level  4 Giant scorpion  2 Survival 0.2620 +/- 0.9155
+Level  4 Giant scorpion  4 Survival 0.0000 +/- 0.0000
+Level  4 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  4 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  5 Giant scorpion  1 Survival 3.9560 +/- 0.2532
+Level  5 Giant scorpion  2 Survival 3.5540 +/- 1.0403
+Level  5 Giant scorpion  4 Survival 0.0100 +/- 0.1896
+Level  5 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  5 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  6 Giant scorpion  1 Survival 3.9920 +/- 0.0891
+Level  6 Giant scorpion  2 Survival 3.8880 +/- 0.4896
+Level  6 Giant scorpion  4 Survival 0.6060 +/- 1.3253
+Level  6 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  6 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  7 Giant scorpion  1 Survival 3.9970 +/- 0.0547
+Level  7 Giant scorpion  2 Survival 3.9610 +/- 0.2560
+Level  7 Giant scorpion  4 Survival 1.6120 +/- 1.8289
+Level  7 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  7 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  8 Giant scorpion  1 Survival 3.9980 +/- 0.0447
+Level  8 Giant scorpion  2 Survival 3.9920 +/- 0.0891
+Level  8 Giant scorpion  4 Survival 2.8710 +/- 1.5820
+Level  8 Giant scorpion  8 Survival 0.0000 +/- 0.0000
+Level  8 Giant scorpion 16 Survival 0.0000 +/- 0.0000
+Level  1 Hell hound  1 Survival 0.0000 +/- 0.0000
+Level  1 Hell hound  2 Survival 0.0000 +/- 0.0000
+Level  1 Hell hound  4 Survival 0.0000 +/- 0.0000
+Level  1 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  1 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  2 Hell hound  1 Survival 0.0230 +/- 0.2873
+Level  2 Hell hound  2 Survival 0.0000 +/- 0.0000
+Level  2 Hell hound  4 Survival 0.0000 +/- 0.0000
+Level  2 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  2 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  3 Hell hound  1 Survival 1.3620 +/- 1.7011
+Level  3 Hell hound  2 Survival 0.0000 +/- 0.0000
+Level  3 Hell hound  4 Survival 0.0000 +/- 0.0000
+Level  3 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  3 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  4 Hell hound  1 Survival 3.0610 +/- 1.4695
+Level  4 Hell hound  2 Survival 0.0050 +/- 0.1304
+Level  4 Hell hound  4 Survival 0.0000 +/- 0.0000
+Level  4 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  4 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  5 Hell hound  1 Survival 3.9090 +/- 0.3780
+Level  5 Hell hound  2 Survival 1.7810 +/- 1.8029
+Level  5 Hell hound  4 Survival 0.0000 +/- 0.0000
+Level  5 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  5 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  6 Hell hound  1 Survival 3.9760 +/- 0.1883
+Level  6 Hell hound  2 Survival 3.2960 +/- 1.2673
+Level  6 Hell hound  4 Survival 0.0000 +/- 0.0000
+Level  6 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  6 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  7 Hell hound  1 Survival 3.9990 +/- 0.0316
+Level  7 Hell hound  2 Survival 3.8210 +/- 0.5227
+Level  7 Hell hound  4 Survival 0.0440 +/- 0.3496
+Level  7 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  7 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  8 Hell hound  1 Survival 4.0000 +/- 0.0000
+Level  8 Hell hound  2 Survival 3.9690 +/- 0.2002
+Level  8 Hell hound  4 Survival 0.4480 +/- 1.0566
+Level  8 Hell hound  8 Survival 0.0000 +/- 0.0000
+Level  8 Hell hound 16 Survival 0.0000 +/- 0.0000
+Level  1 Owlbear  1 Survival 0.0000 +/- 0.0000
+Level  1 Owlbear  2 Survival 0.0000 +/- 0.0000
+Level  1 Owlbear  4 Survival 0.0000 +/- 0.0000
+Level  1 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  1 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  2 Owlbear  1 Survival 0.2490 +/- 0.8853
+Level  2 Owlbear  2 Survival 0.0000 +/- 0.0000
+Level  2 Owlbear  4 Survival 0.0000 +/- 0.0000
+Level  2 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  2 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  3 Owlbear  1 Survival 2.7180 +/- 1.6826
+Level  3 Owlbear  2 Survival 0.0000 +/- 0.0000
+Level  3 Owlbear  4 Survival 0.0000 +/- 0.0000
+Level  3 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  3 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  4 Owlbear  1 Survival 3.7380 +/- 0.7615
+Level  4 Owlbear  2 Survival 0.0950 +/- 0.5712
+Level  4 Owlbear  4 Survival 0.0000 +/- 0.0000
+Level  4 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  4 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  5 Owlbear  1 Survival 3.9860 +/- 0.1335
+Level  5 Owlbear  2 Survival 3.6120 +/- 0.9446
+Level  5 Owlbear  4 Survival 0.0000 +/- 0.0000
+Level  5 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  5 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  6 Owlbear  1 Survival 3.9970 +/- 0.0547
+Level  6 Owlbear  2 Survival 3.9500 +/- 0.2675
+Level  6 Owlbear  4 Survival 0.1990 +/- 0.8075
+Level  6 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  6 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  7 Owlbear  1 Survival 4.0000 +/- 0.0000
+Level  7 Owlbear  2 Survival 3.9860 +/- 0.1408
+Level  7 Owlbear  4 Survival 1.0130 +/- 1.6042
+Level  7 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  7 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  8 Owlbear  1 Survival 4.0000 +/- 0.0000
+Level  8 Owlbear  2 Survival 3.9970 +/- 0.0547
+Level  8 Owlbear  4 Survival 2.6240 +/- 1.6934
+Level  8 Owlbear  8 Survival 0.0000 +/- 0.0000
+Level  8 Owlbear 16 Survival 0.0000 +/- 0.0000
+Level  1 Veteran  1 Survival 0.0000 +/- 0.0000
+Level  1 Veteran  2 Survival 0.0000 +/- 0.0000
+Level  1 Veteran  4 Survival 0.0000 +/- 0.0000
+Level  1 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  1 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  2 Veteran  1 Survival 0.2630 +/- 0.9288
+Level  2 Veteran  2 Survival 0.0000 +/- 0.0000
+Level  2 Veteran  4 Survival 0.0000 +/- 0.0000
+Level  2 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  2 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  3 Veteran  1 Survival 3.0500 +/- 1.5303
+Level  3 Veteran  2 Survival 0.0000 +/- 0.0000
+Level  3 Veteran  4 Survival 0.0000 +/- 0.0000
+Level  3 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  3 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  4 Veteran  1 Survival 3.9120 +/- 0.4717
+Level  4 Veteran  2 Survival 0.2490 +/- 0.8910
+Level  4 Veteran  4 Survival 0.0000 +/- 0.0000
+Level  4 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  4 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  5 Veteran  1 Survival 4.0000 +/- 0.0000
+Level  5 Veteran  2 Survival 3.8970 +/- 0.5125
+Level  5 Veteran  4 Survival 0.0030 +/- 0.0949
+Level  5 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  5 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  6 Veteran  1 Survival 3.9990 +/- 0.0316
+Level  6 Veteran  2 Survival 3.9900 +/- 0.1262
+Level  6 Veteran  4 Survival 0.8480 +/- 1.4944
+Level  6 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  6 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  7 Veteran  1 Survival 4.0000 +/- 0.0000
+Level  7 Veteran  2 Survival 4.0000 +/- 0.0000
+Level  7 Veteran  4 Survival 2.1840 +/- 1.8037
+Level  7 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  7 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  8 Veteran  1 Survival 4.0000 +/- 0.0000
+Level  8 Veteran  2 Survival 4.0000 +/- 0.0000
+Level  8 Veteran  4 Survival 3.5750 +/- 1.0126
+Level  8 Veteran  8 Survival 0.0000 +/- 0.0000
+Level  8 Veteran 16 Survival 0.0000 +/- 0.0000
+Level  1 Banshee  1 Survival 0.0000 +/- 0.0000
+Level  1 Banshee  2 Survival 0.0000 +/- 0.0000
+Level  1 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  1 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  1 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  2 Banshee  1 Survival 0.1080 +/- 0.5820
+Level  2 Banshee  2 Survival 0.0000 +/- 0.0000
+Level  2 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  2 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  2 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  3 Banshee  1 Survival 0.7240 +/- 1.4345
+Level  3 Banshee  2 Survival 0.0000 +/- 0.0000
+Level  3 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  3 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  3 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  4 Banshee  1 Survival 0.9000 +/- 1.5357
+Level  4 Banshee  2 Survival 0.0000 +/- 0.0000
+Level  4 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  4 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  4 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  5 Banshee  1 Survival 1.3410 +/- 1.6160
+Level  5 Banshee  2 Survival 0.0560 +/- 0.4348
+Level  5 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  5 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  5 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  6 Banshee  1 Survival 2.2760 +/- 1.6169
+Level  6 Banshee  2 Survival 0.2850 +/- 0.9212
+Level  6 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  6 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  6 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  7 Banshee  1 Survival 2.7000 +/- 1.5140
+Level  7 Banshee  2 Survival 0.5040 +/- 1.1512
+Level  7 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  7 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  7 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  8 Banshee  1 Survival 2.7750 +/- 1.4424
+Level  8 Banshee  2 Survival 0.8530 +/- 1.4119
+Level  8 Banshee  4 Survival 0.0000 +/- 0.0000
+Level  8 Banshee  8 Survival 0.0000 +/- 0.0000
+Level  8 Banshee 16 Survival 0.0000 +/- 0.0000
+Level  1 Chuul  1 Survival 0.0000 +/- 0.0000
+Level  1 Chuul  2 Survival 0.0000 +/- 0.0000
+Level  1 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  1 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  1 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  2 Chuul  1 Survival 0.0000 +/- 0.0000
+Level  2 Chuul  2 Survival 0.0000 +/- 0.0000
+Level  2 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  2 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  2 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  3 Chuul  1 Survival 0.1470 +/- 0.6927
+Level  3 Chuul  2 Survival 0.0000 +/- 0.0000
+Level  3 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  3 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  3 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  4 Chuul  1 Survival 1.3880 +/- 1.7580
+Level  4 Chuul  2 Survival 0.0000 +/- 0.0000
+Level  4 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  4 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  4 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  5 Chuul  1 Survival 3.7740 +/- 0.7290
+Level  5 Chuul  2 Survival 0.3780 +/- 1.0864
+Level  5 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  5 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  5 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  6 Chuul  1 Survival 3.9350 +/- 0.3885
+Level  6 Chuul  2 Survival 1.9230 +/- 1.8608
+Level  6 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  6 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  6 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  7 Chuul  1 Survival 3.9800 +/- 0.1662
+Level  7 Chuul  2 Survival 2.7680 +/- 1.6628
+Level  7 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  7 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  7 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  8 Chuul  1 Survival 3.9970 +/- 0.0547
+Level  8 Chuul  2 Survival 3.6020 +/- 1.0396
+Level  8 Chuul  4 Survival 0.0000 +/- 0.0000
+Level  8 Chuul  8 Survival 0.0000 +/- 0.0000
+Level  8 Chuul 16 Survival 0.0000 +/- 0.0000
+Level  1 Ettin  1 Survival 0.0000 +/- 0.0000
+Level  1 Ettin  2 Survival 0.0000 +/- 0.0000
+Level  1 Ettin  4 Survival 0.0000 +/- 0.0000
+Level  1 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  1 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  2 Ettin  1 Survival 0.0020 +/- 0.0632
+Level  2 Ettin  2 Survival 0.0000 +/- 0.0000
+Level  2 Ettin  4 Survival 0.0000 +/- 0.0000
+Level  2 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  2 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  3 Ettin  1 Survival 1.1720 +/- 1.6719
+Level  3 Ettin  2 Survival 0.0000 +/- 0.0000
+Level  3 Ettin  4 Survival 0.0000 +/- 0.0000
+Level  3 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  3 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  4 Ettin  1 Survival 2.9390 +/- 1.5594
+Level  4 Ettin  2 Survival 0.0000 +/- 0.0000
+Level  4 Ettin  4 Survival 0.0000 +/- 0.0000
+Level  4 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  4 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  5 Ettin  1 Survival 3.9550 +/- 0.2346
+Level  5 Ettin  2 Survival 2.3040 +/- 1.7891
+Level  5 Ettin  4 Survival 0.0000 +/- 0.0000
+Level  5 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  5 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  6 Ettin  1 Survival 3.9980 +/- 0.0447
+Level  6 Ettin  2 Survival 3.5830 +/- 1.0238
+Level  6 Ettin  4 Survival 0.0000 +/- 0.0000
+Level  6 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  6 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  7 Ettin  1 Survival 3.9990 +/- 0.0316
+Level  7 Ettin  2 Survival 3.9000 +/- 0.4245
+Level  7 Ettin  4 Survival 0.0000 +/- 0.0000
+Level  7 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  7 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  8 Ettin  1 Survival 3.9990 +/- 0.0316
+Level  8 Ettin  2 Survival 3.9830 +/- 0.1635
+Level  8 Ettin  4 Survival 0.2280 +/- 0.8153
+Level  8 Ettin  8 Survival 0.0000 +/- 0.0000
+Level  8 Ettin 16 Survival 0.0000 +/- 0.0000
+Level  1 Lizard queen  1 Survival 0.0000 +/- 0.0000
+Level  1 Lizard queen  2 Survival 0.0000 +/- 0.0000
+Level  1 Lizard queen  4 Survival 0.0000 +/- 0.0000
+Level  1 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  1 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  2 Lizard queen  1 Survival 0.0000 +/- 0.0000
+Level  2 Lizard queen  2 Survival 0.0000 +/- 0.0000
+Level  2 Lizard queen  4 Survival 0.0000 +/- 0.0000
+Level  2 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  2 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  3 Lizard queen  1 Survival 0.2360 +/- 0.8735
+Level  3 Lizard queen  2 Survival 0.0000 +/- 0.0000
+Level  3 Lizard queen  4 Survival 0.0000 +/- 0.0000
+Level  3 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  3 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  4 Lizard queen  1 Survival 1.9200 +/- 1.8945
+Level  4 Lizard queen  2 Survival 0.0000 +/- 0.0000
+Level  4 Lizard queen  4 Survival 0.0000 +/- 0.0000
+Level  4 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  4 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  5 Lizard queen  1 Survival 3.9250 +/- 0.3514
+Level  5 Lizard queen  2 Survival 1.3970 +/- 1.7957
+Level  5 Lizard queen  4 Survival 0.0000 +/- 0.0000
+Level  5 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  5 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  6 Lizard queen  1 Survival 3.9850 +/- 0.1296
+Level  6 Lizard queen  2 Survival 3.1800 +/- 1.4655
+Level  6 Lizard queen  4 Survival 0.0000 +/- 0.0000
+Level  6 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  6 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  7 Lizard queen  1 Survival 3.9970 +/- 0.0707
+Level  7 Lizard queen  2 Survival 3.7600 +/- 0.7931
+Level  7 Lizard queen  4 Survival 0.0000 +/- 0.0000
+Level  7 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  7 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  8 Lizard queen  1 Survival 4.0000 +/- 0.0000
+Level  8 Lizard queen  2 Survival 3.9580 +/- 0.2762
+Level  8 Lizard queen  4 Survival 0.0530 +/- 0.4294
+Level  8 Lizard queen  8 Survival 0.0000 +/- 0.0000
+Level  8 Lizard queen 16 Survival 0.0000 +/- 0.0000
+Level  1 Shadow demon  1 Survival 0.0000 +/- 0.0000
+Level  1 Shadow demon  2 Survival 0.0000 +/- 0.0000
+Level  1 Shadow demon  4 Survival 0.0000 +/- 0.0000
+Level  1 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  1 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  2 Shadow demon  1 Survival 0.0000 +/- 0.0000
+Level  2 Shadow demon  2 Survival 0.0000 +/- 0.0000
+Level  2 Shadow demon  4 Survival 0.0000 +/- 0.0000
+Level  2 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  2 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  3 Shadow demon  1 Survival 0.2040 +/- 0.8289
+Level  3 Shadow demon  2 Survival 0.0000 +/- 0.0000
+Level  3 Shadow demon  4 Survival 0.0000 +/- 0.0000
+Level  3 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  3 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  4 Shadow demon  1 Survival 1.2490 +/- 1.7280
+Level  4 Shadow demon  2 Survival 0.0000 +/- 0.0000
+Level  4 Shadow demon  4 Survival 0.0000 +/- 0.0000
+Level  4 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  4 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  5 Shadow demon  1 Survival 3.8680 +/- 0.5485
+Level  5 Shadow demon  2 Survival 0.7530 +/- 1.4711
+Level  5 Shadow demon  4 Survival 0.0000 +/- 0.0000
+Level  5 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  5 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  6 Shadow demon  1 Survival 3.9970 +/- 0.0547
+Level  6 Shadow demon  2 Survival 3.9000 +/- 0.4735
+Level  6 Shadow demon  4 Survival 0.0780 +/- 0.5140
+Level  6 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  6 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  7 Shadow demon  1 Survival 4.0000 +/- 0.0000
+Level  7 Shadow demon  2 Survival 3.9640 +/- 0.2505
+Level  7 Shadow demon  4 Survival 0.5240 +/- 1.2550
+Level  7 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  7 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  8 Shadow demon  1 Survival 4.0000 +/- 0.0000
+Level  8 Shadow demon  2 Survival 3.9940 +/- 0.0773
+Level  8 Shadow demon  4 Survival 2.7800 +/- 1.6662
+Level  8 Shadow demon  8 Survival 0.0000 +/- 0.0000
+Level  8 Shadow demon 16 Survival 0.0000 +/- 0.0000
+Level  1 Bulette  1 Survival 0.0000 +/- 0.0000
+Level  1 Bulette  2 Survival 0.0000 +/- 0.0000
+Level  1 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  1 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  1 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  2 Bulette  1 Survival 0.0000 +/- 0.0000
+Level  2 Bulette  2 Survival 0.0000 +/- 0.0000
+Level  2 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  2 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  2 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  3 Bulette  1 Survival 0.0000 +/- 0.0000
+Level  3 Bulette  2 Survival 0.0000 +/- 0.0000
+Level  3 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  3 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  3 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  4 Bulette  1 Survival 0.0770 +/- 0.4892
+Level  4 Bulette  2 Survival 0.0000 +/- 0.0000
+Level  4 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  4 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  4 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  5 Bulette  1 Survival 2.0040 +/- 1.7746
+Level  5 Bulette  2 Survival 0.0040 +/- 0.1265
+Level  5 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  5 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  5 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  6 Bulette  1 Survival 2.9890 +/- 1.4286
+Level  6 Bulette  2 Survival 0.0800 +/- 0.5098
+Level  6 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  6 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  6 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  7 Bulette  1 Survival 3.6420 +/- 0.7214
+Level  7 Bulette  2 Survival 0.7450 +/- 1.3769
+Level  7 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  7 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  7 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  8 Bulette  1 Survival 3.8950 +/- 0.3662
+Level  8 Bulette  2 Survival 1.7210 +/- 1.7053
+Level  8 Bulette  4 Survival 0.0000 +/- 0.0000
+Level  8 Bulette  8 Survival 0.0000 +/- 0.0000
+Level  8 Bulette 16 Survival 0.0000 +/- 0.0000
+Level  1 Earth elemental  1 Survival 0.0000 +/- 0.0000
+Level  1 Earth elemental  2 Survival 0.0000 +/- 0.0000
+Level  1 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  1 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  1 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  2 Earth elemental  1 Survival 0.0000 +/- 0.0000
+Level  2 Earth elemental  2 Survival 0.0000 +/- 0.0000
+Level  2 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  2 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  2 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  3 Earth elemental  1 Survival 0.0000 +/- 0.0000
+Level  3 Earth elemental  2 Survival 0.0000 +/- 0.0000
+Level  3 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  3 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  3 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  4 Earth elemental  1 Survival 0.0000 +/- 0.0000
+Level  4 Earth elemental  2 Survival 0.0000 +/- 0.0000
+Level  4 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  4 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  4 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  5 Earth elemental  1 Survival 1.7320 +/- 1.8465
+Level  5 Earth elemental  2 Survival 0.0000 +/- 0.0000
+Level  5 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  5 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  5 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  6 Earth elemental  1 Survival 3.8850 +/- 0.4626
+Level  6 Earth elemental  2 Survival 0.5130 +/- 1.2220
+Level  6 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  6 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  6 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  7 Earth elemental  1 Survival 3.9680 +/- 0.2025
+Level  7 Earth elemental  2 Survival 1.7130 +/- 1.8182
+Level  7 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  7 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  7 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  8 Earth elemental  1 Survival 3.9920 +/- 0.0997
+Level  8 Earth elemental  2 Survival 3.1420 +/- 1.3935
+Level  8 Earth elemental  4 Survival 0.0000 +/- 0.0000
+Level  8 Earth elemental  8 Survival 0.0000 +/- 0.0000
+Level  8 Earth elemental 16 Survival 0.0000 +/- 0.0000
+Level  1 Shambling mound  1 Survival 0.0000 +/- 0.0000
+Level  1 Shambling mound  2 Survival 0.0000 +/- 0.0000
+Level  1 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  1 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  1 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  2 Shambling mound  1 Survival 0.0000 +/- 0.0000
+Level  2 Shambling mound  2 Survival 0.0000 +/- 0.0000
+Level  2 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  2 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  2 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  3 Shambling mound  1 Survival 0.0000 +/- 0.0000
+Level  3 Shambling mound  2 Survival 0.0000 +/- 0.0000
+Level  3 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  3 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  3 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  4 Shambling mound  1 Survival 0.1270 +/- 0.6413
+Level  4 Shambling mound  2 Survival 0.0000 +/- 0.0000
+Level  4 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  4 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  4 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  5 Shambling mound  1 Survival 3.3040 +/- 1.2974
+Level  5 Shambling mound  2 Survival 0.0000 +/- 0.0000
+Level  5 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  5 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  5 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  6 Shambling mound  1 Survival 3.8290 +/- 0.6294
+Level  6 Shambling mound  2 Survival 0.2330 +/- 0.8829
+Level  6 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  6 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  6 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  7 Shambling mound  1 Survival 3.9630 +/- 0.2524
+Level  7 Shambling mound  2 Survival 0.8810 +/- 1.5399
+Level  7 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  7 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  7 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  8 Shambling mound  1 Survival 3.9920 +/- 0.0891
+Level  8 Shambling mound  2 Survival 2.4600 +/- 1.7910
+Level  8 Shambling mound  4 Survival 0.0000 +/- 0.0000
+Level  8 Shambling mound  8 Survival 0.0000 +/- 0.0000
+Level  8 Shambling mound 16 Survival 0.0000 +/- 0.0000
+Level  1 Troll  1 Survival 0.0000 +/- 0.0000
+Level  1 Troll  2 Survival 0.0000 +/- 0.0000
+Level  1 Troll  4 Survival 0.0000 +/- 0.0000
+Level  1 Troll  8 Survival 0.0000 +/- 0.0000
+Level  1 Troll 16 Survival 0.0000 +/- 0.0000
+Level  2 Troll  1 Survival 0.0000 +/- 0.0000
+Level  2 Troll  2 Survival 0.0000 +/- 0.0000
+Level  2 Troll  4 Survival 0.0000 +/- 0.0000
+Level  2 Troll  8 Survival 0.0000 +/- 0.0000
+Level  2 Troll 16 Survival 0.0000 +/- 0.0000
+Level  3 Troll  1 Survival 0.0440 +/- 0.3824
+Level  3 Troll  2 Survival 0.0000 +/- 0.0000
+Level  3 Troll  4 Survival 0.0000 +/- 0.0000
+Level  3 Troll  8 Survival 0.0000 +/- 0.0000
+Level  3 Troll 16 Survival 0.0000 +/- 0.0000
+Level  4 Troll  1 Survival 1.1910 +/- 1.7313
+Level  4 Troll  2 Survival 0.0000 +/- 0.0000
+Level  4 Troll  4 Survival 0.0000 +/- 0.0000
+Level  4 Troll  8 Survival 0.0000 +/- 0.0000
+Level  4 Troll 16 Survival 0.0000 +/- 0.0000
+Level  5 Troll  1 Survival 3.9280 +/- 0.3962
+Level  5 Troll  2 Survival 0.4850 +/- 1.2269
+Level  5 Troll  4 Survival 0.0000 +/- 0.0000
+Level  5 Troll  8 Survival 0.0000 +/- 0.0000
+Level  5 Troll 16 Survival 0.0000 +/- 0.0000
+Level  6 Troll  1 Survival 3.9880 +/- 0.1260
+Level  6 Troll  2 Survival 2.6930 +/- 1.7412
+Level  6 Troll  4 Survival 0.0000 +/- 0.0000
+Level  6 Troll  8 Survival 0.0000 +/- 0.0000
+Level  6 Troll 16 Survival 0.0000 +/- 0.0000
+Level  7 Troll  1 Survival 3.9990 +/- 0.0316
+Level  7 Troll  2 Survival 3.6400 +/- 1.0136
+Level  7 Troll  4 Survival 0.0000 +/- 0.0000
+Level  7 Troll  8 Survival 0.0000 +/- 0.0000
+Level  7 Troll 16 Survival 0.0000 +/- 0.0000
+Level  8 Troll  1 Survival 4.0000 +/- 0.0000
+Level  8 Troll  2 Survival 3.9380 +/- 0.3665
+Level  8 Troll  4 Survival 0.0000 +/- 0.0000
+Level  8 Troll  8 Survival 0.0000 +/- 0.0000
+Level  8 Troll 16 Survival 0.0000 +/- 0.0000
+Level  3 Chimera  1 Survival 0.0000 +/- 0.0000
+Level  3 Chimera  2 Survival 0.0000 +/- 0.0000
+Level  3 Chimera  4 Survival 0.0000 +/- 0.0000
+Level  3 Chimera  8 Survival 0.0000 +/- 0.0000
+Level  4 Chimera  1 Survival 0.0000 +/- 0.0000
+Level  4 Chimera  2 Survival 0.0000 +/- 0.0000
+Level  4 Chimera  4 Survival 0.0000 +/- 0.0000
+Level  4 Chimera  8 Survival 0.0000 +/- 0.0000
+Level  5 Chimera  1 Survival 0.3250 +/- 1.0249
+Level  5 Chimera  2 Survival 0.0000 +/- 0.0000
+Level  5 Chimera  4 Survival 0.0000 +/- 0.0000
+Level  5 Chimera  8 Survival 0.0000 +/- 0.0000
+Level  6 Chimera  1 Survival 1.3680 +/- 1.7365
+Level  6 Chimera  2 Survival 0.0000 +/- 0.0000
+Level  6 Chimera  4 Survival 0.0000 +/- 0.0000
+Level  6 Chimera  8 Survival 0.0000 +/- 0.0000
+Level  7 Chimera  1 Survival 2.7920 +/- 1.5116
+Level  7 Chimera  2 Survival 0.0060 +/- 0.1414
+Level  7 Chimera  4 Survival 0.0000 +/- 0.0000
+Level  7 Chimera  8 Survival 0.0000 +/- 0.0000
+Level  8 Chimera  1 Survival 3.4400 +/- 0.9856
+Level  8 Chimera  2 Survival 0.0430 +/- 0.3838
+Level  8 Chimera  4 Survival 0.0000 +/- 0.0000
+Level  8 Chimera  8 Survival 0.0000 +/- 0.0000
+Level  3 Invisible stalker  1 Survival 0.0000 +/- 0.0000
+Level  3 Invisible stalker  2 Survival 0.0000 +/- 0.0000
+Level  3 Invisible stalker  4 Survival 0.0000 +/- 0.0000
+Level  3 Invisible stalker  8 Survival 0.0000 +/- 0.0000
+Level  4 Invisible stalker  1 Survival 0.0000 +/- 0.0000
+Level  4 Invisible stalker  2 Survival 0.0000 +/- 0.0000
+Level  4 Invisible stalker  4 Survival 0.0000 +/- 0.0000
+Level  4 Invisible stalker  8 Survival 0.0000 +/- 0.0000
+Level  5 Invisible stalker  1 Survival 0.2270 +/- 0.8685
+Level  5 Invisible stalker  2 Survival 0.0000 +/- 0.0000
+Level  5 Invisible stalker  4 Survival 0.0000 +/- 0.0000
+Level  5 Invisible stalker  8 Survival 0.0000 +/- 0.0000
+Level  6 Invisible stalker  1 Survival 3.8020 +/- 0.7729
+Level  6 Invisible stalker  2 Survival 0.1090 +/- 0.6095
+Level  6 Invisible stalker  4 Survival 0.0000 +/- 0.0000
+Level  6 Invisible stalker  8 Survival 0.0000 +/- 0.0000
+Level  7 Invisible stalker  1 Survival 3.9510 +/- 0.3698
+Level  7 Invisible stalker  2 Survival 0.7760 +/- 1.4920
+Level  7 Invisible stalker  4 Survival 0.0000 +/- 0.0000
+Level  7 Invisible stalker  8 Survival 0.0000 +/- 0.0000
+Level  8 Invisible stalker  1 Survival 3.9940 +/- 0.1341
+Level  8 Invisible stalker  2 Survival 2.9800 +/- 1.5723
+Level  8 Invisible stalker  4 Survival 0.0000 +/- 0.0000
+Level  8 Invisible stalker  8 Survival 0.0000 +/- 0.0000
+Level  3 Mage  1 Survival 0.0060 +/- 0.1414
+Level  3 Mage  2 Survival 0.0000 +/- 0.0000
+Level  3 Mage  4 Survival 0.0000 +/- 0.0000
+Level  3 Mage  8 Survival 0.0000 +/- 0.0000
+Level  4 Mage  1 Survival 0.0940 +/- 0.5545
+Level  4 Mage  2 Survival 0.0000 +/- 0.0000
+Level  4 Mage  4 Survival 0.0000 +/- 0.0000
+Level  4 Mage  8 Survival 0.0000 +/- 0.0000
+Level  5 Mage  1 Survival 1.1480 +/- 1.7184
+Level  5 Mage  2 Survival 0.0240 +/- 0.3091
+Level  5 Mage  4 Survival 0.0000 +/- 0.0000
+Level  5 Mage  8 Survival 0.0000 +/- 0.0000
+Level  6 Mage  1 Survival 2.2760 +/- 1.8290
+Level  6 Mage  2 Survival 0.2350 +/- 0.8992
+Level  6 Mage  4 Survival 0.0000 +/- 0.0000
+Level  6 Mage  8 Survival 0.0000 +/- 0.0000
+Level  7 Mage  1 Survival 3.2180 +/- 1.3807
+Level  7 Mage  2 Survival 0.7690 +/- 1.4852
+Level  7 Mage  4 Survival 0.0000 +/- 0.0000
+Level  7 Mage  8 Survival 0.0000 +/- 0.0000
+Level  8 Mage  1 Survival 3.7160 +/- 0.7950
+Level  8 Mage  2 Survival 1.7980 +/- 1.8397
+Level  8 Mage  4 Survival 0.0000 +/- 0.0000
+Level  8 Mage  8 Survival 0.0000 +/- 0.0000
+Level  3 Wyvern  1 Survival 0.0370 +/- 0.3630
+Level  3 Wyvern  2 Survival 0.0000 +/- 0.0000
+Level  3 Wyvern  4 Survival 0.0000 +/- 0.0000
+Level  3 Wyvern  8 Survival 0.0000 +/- 0.0000
+Level  4 Wyvern  1 Survival 0.4380 +/- 1.1373
+Level  4 Wyvern  2 Survival 0.0000 +/- 0.0000
+Level  4 Wyvern  4 Survival 0.0000 +/- 0.0000
+Level  4 Wyvern  8 Survival 0.0000 +/- 0.0000
+Level  5 Wyvern  1 Survival 3.0720 +/- 1.4391
+Level  5 Wyvern  2 Survival 0.0210 +/- 0.2658
+Level  5 Wyvern  4 Survival 0.0000 +/- 0.0000
+Level  5 Wyvern  8 Survival 0.0000 +/- 0.0000
+Level  6 Wyvern  1 Survival 3.6850 +/- 0.7927
+Level  6 Wyvern  2 Survival 0.7440 +/- 1.4410
+Level  6 Wyvern  4 Survival 0.0000 +/- 0.0000
+Level  6 Wyvern  8 Survival 0.0000 +/- 0.0000
+Level  7 Wyvern  1 Survival 3.8900 +/- 0.4220
+Level  7 Wyvern  2 Survival 1.7010 +/- 1.8229
+Level  7 Wyvern  4 Survival 0.0000 +/- 0.0000
+Level  7 Wyvern  8 Survival 0.0000 +/- 0.0000
+Level  8 Wyvern  1 Survival 3.9740 +/- 0.1826
+Level  8 Wyvern  2 Survival 2.7520 +/- 1.6417
+Level  8 Wyvern  4 Survival 0.0000 +/- 0.0000
+Level  8 Wyvern  8 Survival 0.0000 +/- 0.0000
+Level  3 Mind flayer  1 Survival 0.0340 +/- 0.3331
+Level  3 Mind flayer  2 Survival 0.0000 +/- 0.0000
+Level  3 Mind flayer  4 Survival 0.0000 +/- 0.0000
+Level  3 Mind flayer  8 Survival 0.0000 +/- 0.0000
+Level  4 Mind flayer  1 Survival 0.5960 +/- 1.3048
+Level  4 Mind flayer  2 Survival 0.0000 +/- 0.0000
+Level  4 Mind flayer  4 Survival 0.0000 +/- 0.0000
+Level  4 Mind flayer  8 Survival 0.0000 +/- 0.0000
+Level  5 Mind flayer  1 Survival 3.0950 +/- 1.4177
+Level  5 Mind flayer  2 Survival 0.0260 +/- 0.2957
+Level  5 Mind flayer  4 Survival 0.0000 +/- 0.0000
+Level  5 Mind flayer  8 Survival 0.0000 +/- 0.0000
+Level  6 Mind flayer  1 Survival 3.6490 +/- 0.9136
+Level  6 Mind flayer  2 Survival 0.1740 +/- 0.7418
+Level  6 Mind flayer  4 Survival 0.0000 +/- 0.0000
+Level  6 Mind flayer  8 Survival 0.0000 +/- 0.0000
+Level  7 Mind flayer  1 Survival 3.8810 +/- 0.4848
+Level  7 Mind flayer  2 Survival 0.4970 +/- 1.2147
+Level  7 Mind flayer  4 Survival 0.0000 +/- 0.0000
+Level  7 Mind flayer  8 Survival 0.0000 +/- 0.0000
+Level  8 Mind flayer  1 Survival 3.9500 +/- 0.2785
+Level  8 Mind flayer  2 Survival 1.5620 +/- 1.7644
+Level  8 Mind flayer  4 Survival 0.0000 +/- 0.0000
+Level  8 Mind flayer  8 Survival 0.0000 +/- 0.0000
+Level  3 Shield guardian  1 Survival 0.0000 +/- 0.0000
+Level  3 Shield guardian  2 Survival 0.0000 +/- 0.0000
+Level  3 Shield guardian  4 Survival 0.0000 +/- 0.0000
+Level  3 Shield guardian  8 Survival 0.0000 +/- 0.0000
+Level  4 Shield guardian  1 Survival 0.0000 +/- 0.0000
+Level  4 Shield guardian  2 Survival 0.0000 +/- 0.0000
+Level  4 Shield guardian  4 Survival 0.0000 +/- 0.0000
+Level  4 Shield guardian  8 Survival 0.0000 +/- 0.0000
+Level  5 Shield guardian  1 Survival 0.4640 +/- 1.2059
+Level  5 Shield guardian  2 Survival 0.0000 +/- 0.0000
+Level  5 Shield guardian  4 Survival 0.0000 +/- 0.0000
+Level  5 Shield guardian  8 Survival 0.0000 +/- 0.0000
+Level  6 Shield guardian  1 Survival 2.1250 +/- 1.8679
+Level  6 Shield guardian  2 Survival 0.0000 +/- 0.0000
+Level  6 Shield guardian  4 Survival 0.0000 +/- 0.0000
+Level  6 Shield guardian  8 Survival 0.0000 +/- 0.0000
+Level  7 Shield guardian  1 Survival 3.0240 +/- 1.4062
+Level  7 Shield guardian  2 Survival 0.0000 +/- 0.0000
+Level  7 Shield guardian  4 Survival 0.0000 +/- 0.0000
+Level  7 Shield guardian  8 Survival 0.0000 +/- 0.0000
+Level  8 Shield guardian  1 Survival 3.4890 +/- 0.9158
+Level  8 Shield guardian  2 Survival 0.1010 +/- 0.5976
+Level  8 Shield guardian  4 Survival 0.0000 +/- 0.0000
+Level  8 Shield guardian  8 Survival 0.0000 +/- 0.0000
+Level  3 Young black dragon  1 Survival 0.0000 +/- 0.0000
+Level  3 Young black dragon  2 Survival 0.0000 +/- 0.0000
+Level  3 Young black dragon  4 Survival 0.0000 +/- 0.0000
+Level  3 Young black dragon  8 Survival 0.0000 +/- 0.0000
+Level  4 Young black dragon  1 Survival 0.0000 +/- 0.0000
+Level  4 Young black dragon  2 Survival 0.0000 +/- 0.0000
+Level  4 Young black dragon  4 Survival 0.0000 +/- 0.0000
+Level  4 Young black dragon  8 Survival 0.0000 +/- 0.0000
+Level  5 Young black dragon  1 Survival 0.0000 +/- 0.0000
+Level  5 Young black dragon  2 Survival 0.0000 +/- 0.0000
+Level  5 Young black dragon  4 Survival 0.0000 +/- 0.0000
+Level  5 Young black dragon  8 Survival 0.0000 +/- 0.0000
+Level  6 Young black dragon  1 Survival 0.0460 +/- 0.3742
+Level  6 Young black dragon  2 Survival 0.0000 +/- 0.0000
+Level  6 Young black dragon  4 Survival 0.0000 +/- 0.0000
+Level  6 Young black dragon  8 Survival 0.0000 +/- 0.0000
+Level  7 Young black dragon  1 Survival 0.5390 +/- 1.2434
+Level  7 Young black dragon  2 Survival 0.0000 +/- 0.0000
+Level  7 Young black dragon  4 Survival 0.0000 +/- 0.0000
+Level  7 Young black dragon  8 Survival 0.0000 +/- 0.0000
+Level  8 Young black dragon  1 Survival 1.4240 +/- 1.6855
+Level  8 Young black dragon  2 Survival 0.0000 +/- 0.0000
+Level  8 Young black dragon  4 Survival 0.0000 +/- 0.0000
+Level  8 Young black dragon  8 Survival 0.0000 +/- 0.0000
+Level  4 Chain devil  1 Survival 0.0000 +/- 0.0000
+Level  4 Chain devil  2 Survival 0.0000 +/- 0.0000
+Level  4 Chain devil  4 Survival 0.0000 +/- 0.0000
+Level  4 Chain devil  8 Survival 0.0000 +/- 0.0000
+Level  5 Chain devil  1 Survival 0.0000 +/- 0.0000
+Level  5 Chain devil  2 Survival 0.0000 +/- 0.0000
+Level  5 Chain devil  4 Survival 0.0000 +/- 0.0000
+Level  5 Chain devil  8 Survival 0.0000 +/- 0.0000
+Level  6 Chain devil  1 Survival 0.3340 +/- 1.0787
+Level  6 Chain devil  2 Survival 0.0000 +/- 0.0000
+Level  6 Chain devil  4 Survival 0.0000 +/- 0.0000
+Level  6 Chain devil  8 Survival 0.0000 +/- 0.0000
+Level  7 Chain devil  1 Survival 1.0410 +/- 1.7188
+Level  7 Chain devil  2 Survival 0.0000 +/- 0.0000
+Level  7 Chain devil  4 Survival 0.0000 +/- 0.0000
+Level  7 Chain devil  8 Survival 0.0000 +/- 0.0000
+Level  8 Chain devil  1 Survival 2.7170 +/- 1.7805
+Level  8 Chain devil  2 Survival 0.0000 +/- 0.0000
+Level  8 Chain devil  4 Survival 0.0000 +/- 0.0000
+Level  8 Chain devil  8 Survival 0.0000 +/- 0.0000
+Level  4 Frost giant  1 Survival 0.0000 +/- 0.0000
+Level  4 Frost giant  2 Survival 0.0000 +/- 0.0000
+Level  4 Frost giant  4 Survival 0.0000 +/- 0.0000
+Level  4 Frost giant  8 Survival 0.0000 +/- 0.0000
+Level  5 Frost giant  1 Survival 1.2460 +/- 1.7223
+Level  5 Frost giant  2 Survival 0.0000 +/- 0.0000
+Level  5 Frost giant  4 Survival 0.0000 +/- 0.0000
+Level  5 Frost giant  8 Survival 0.0000 +/- 0.0000
+Level  6 Frost giant  1 Survival 2.2120 +/- 1.8023
+Level  6 Frost giant  2 Survival 0.0000 +/- 0.0000
+Level  6 Frost giant  4 Survival 0.0000 +/- 0.0000
+Level  6 Frost giant  8 Survival 0.0000 +/- 0.0000
+Level  7 Frost giant  1 Survival 3.1800 +/- 1.3782
+Level  7 Frost giant  2 Survival 0.0080 +/- 0.1611
+Level  7 Frost giant  4 Survival 0.0000 +/- 0.0000
+Level  7 Frost giant  8 Survival 0.0000 +/- 0.0000
+Level  8 Frost giant  1 Survival 3.6630 +/- 0.8415
+Level  8 Frost giant  2 Survival 0.2040 +/- 0.7956
+Level  8 Frost giant  4 Survival 0.0000 +/- 0.0000
+Level  8 Frost giant  8 Survival 0.0000 +/- 0.0000
+Level  4 Hydra  1 Survival 0.0000 +/- 0.0000
+Level  4 Hydra  2 Survival 0.0000 +/- 0.0000
+Level  4 Hydra  4 Survival 0.0000 +/- 0.0000
+Level  4 Hydra  8 Survival 0.0000 +/- 0.0000
+Level  5 Hydra  1 Survival 0.0290 +/- 0.3229
+Level  5 Hydra  2 Survival 0.0000 +/- 0.0000
+Level  5 Hydra  4 Survival 0.0000 +/- 0.0000
+Level  5 Hydra  8 Survival 0.0000 +/- 0.0000
+Level  6 Hydra  1 Survival 1.0960 +/- 1.6851
+Level  6 Hydra  2 Survival 0.0000 +/- 0.0000
+Level  6 Hydra  4 Survival 0.0000 +/- 0.0000
+Level  6 Hydra  8 Survival 0.0000 +/- 0.0000
+Level  7 Hydra  1 Survival 2.1220 +/- 1.8731
+Level  7 Hydra  2 Survival 0.0000 +/- 0.0000
+Level  7 Hydra  4 Survival 0.0000 +/- 0.0000
+Level  7 Hydra  8 Survival 0.0000 +/- 0.0000
+Level  8 Hydra  1 Survival 3.3240 +/- 1.4011
+Level  8 Hydra  2 Survival 0.0000 +/- 0.0000
+Level  8 Hydra  4 Survival 0.0000 +/- 0.0000
+Level  8 Hydra  8 Survival 0.0000 +/- 0.0000
+Level  4 Abominable yeti  1 Survival 0.0000 +/- 0.0000
+Level  4 Abominable yeti  2 Survival 0.0000 +/- 0.0000
+Level  4 Abominable yeti  4 Survival 0.0000 +/- 0.0000
+Level  5 Abominable yeti  1 Survival 0.0060 +/- 0.1341
+Level  5 Abominable yeti  2 Survival 0.0000 +/- 0.0000
+Level  5 Abominable yeti  4 Survival 0.0000 +/- 0.0000
+Level  6 Abominable yeti  1 Survival 0.1100 +/- 0.6019
+Level  6 Abominable yeti  2 Survival 0.0000 +/- 0.0000
+Level  6 Abominable yeti  4 Survival 0.0000 +/- 0.0000
+Level  7 Abominable yeti  1 Survival 0.5780 +/- 1.3121
+Level  7 Abominable yeti  2 Survival 0.0000 +/- 0.0000
+Level  7 Abominable yeti  4 Survival 0.0000 +/- 0.0000
+Level  8 Abominable yeti  1 Survival 1.5450 +/- 1.8142
+Level  8 Abominable yeti  2 Survival 0.0000 +/- 0.0000
+Level  8 Abominable yeti  4 Survival 0.0000 +/- 0.0000
+Level  4 BoneDevil  1 Survival 0.0000 +/- 0.0000
+Level  4 BoneDevil  2 Survival 0.0000 +/- 0.0000
+Level  4 BoneDevil  4 Survival 0.0000 +/- 0.0000
+Level  5 BoneDevil  1 Survival 0.0000 +/- 0.0000
+Level  5 BoneDevil  2 Survival 0.0000 +/- 0.0000
+Level  5 BoneDevil  4 Survival 0.0000 +/- 0.0000
+Level  6 BoneDevil  1 Survival 1.1900 +/- 1.6843
+Level  6 BoneDevil  2 Survival 0.0000 +/- 0.0000
+Level  6 BoneDevil  4 Survival 0.0000 +/- 0.0000
+Level  7 BoneDevil  1 Survival 2.1390 +/- 1.8278
+Level  7 BoneDevil  2 Survival 0.0000 +/- 0.0000
+Level  7 BoneDevil  4 Survival 0.0000 +/- 0.0000
+Level  8 BoneDevil  1 Survival 3.2580 +/- 1.3058
+Level  8 BoneDevil  2 Survival 0.0080 +/- 0.1548
+Level  8 BoneDevil  4 Survival 0.0000 +/- 0.0000
+Level  4 Fire giant  1 Survival 0.0000 +/- 0.0000
+Level  4 Fire giant  2 Survival 0.0000 +/- 0.0000
+Level  4 Fire giant  4 Survival 0.0000 +/- 0.0000
+Level  5 Fire giant  1 Survival 0.0040 +/- 0.1265
+Level  5 Fire giant  2 Survival 0.0000 +/- 0.0000
+Level  5 Fire giant  4 Survival 0.0000 +/- 0.0000
+Level  6 Fire giant  1 Survival 0.2330 +/- 0.8587
+Level  6 Fire giant  2 Survival 0.0000 +/- 0.0000
+Level  6 Fire giant  4 Survival 0.0000 +/- 0.0000
+Level  7 Fire giant  1 Survival 0.7560 +/- 1.4548
+Level  7 Fire giant  2 Survival 0.0000 +/- 0.0000
+Level  7 Fire giant  4 Survival 0.0000 +/- 0.0000
+Level  8 Fire giant  1 Survival 2.0570 +/- 1.8339
+Level  8 Fire giant  2 Survival 0.0000 +/- 0.0000
+Level  8 Fire giant  4 Survival 0.0000 +/- 0.0000
+Level  5 Aboleth  1 Survival 0.0000 +/- 0.0000
+Level  5 Aboleth  2 Survival 0.0000 +/- 0.0000
+Level  5 Aboleth  4 Survival 0.0000 +/- 0.0000
+Level  6 Aboleth  1 Survival 0.1600 +/- 0.7314
+Level  6 Aboleth  2 Survival 0.0000 +/- 0.0000
+Level  6 Aboleth  4 Survival 0.0000 +/- 0.0000
+Level  7 Aboleth  1 Survival 0.8770 +/- 1.5538
+Level  7 Aboleth  2 Survival 0.0000 +/- 0.0000
+Level  7 Aboleth  4 Survival 0.0000 +/- 0.0000
+Level  8 Aboleth  1 Survival 2.5440 +/- 1.7886
+Level  8 Aboleth  2 Survival 0.0000 +/- 0.0000
+Level  8 Aboleth  4 Survival 0.0000 +/- 0.0000
+Level  5 Stone golem  1 Survival 0.0000 +/- 0.0000
+Level  5 Stone golem  2 Survival 0.0000 +/- 0.0000
+Level  5 Stone golem  4 Survival 0.0000 +/- 0.0000
+Level  6 Stone golem  1 Survival 3.1150 +/- 1.5265
+Level  6 Stone golem  2 Survival 0.0000 +/- 0.0000
+Level  6 Stone golem  4 Survival 0.0000 +/- 0.0000
+Level  7 Stone golem  1 Survival 3.6650 +/- 0.9538
+Level  7 Stone golem  2 Survival 0.0040 +/- 0.1265
+Level  7 Stone golem  4 Survival 0.0000 +/- 0.0000
+Level  8 Stone golem  1 Survival 3.9190 +/- 0.4568
+Level  8 Stone golem  2 Survival 0.3280 +/- 1.0303
+Level  8 Stone golem  4 Survival 0.0000 +/- 0.0000
+Level  5 Young red dragon  1 Survival 0.0000 +/- 0.0000
+Level  5 Young red dragon  2 Survival 0.0000 +/- 0.0000
+Level  5 Young red dragon  4 Survival 0.0000 +/- 0.0000
+Level  6 Young red dragon  1 Survival 0.0000 +/- 0.0000
+Level  6 Young red dragon  2 Survival 0.0000 +/- 0.0000
+Level  6 Young red dragon  4 Survival 0.0000 +/- 0.0000
+Level  7 Young red dragon  1 Survival 0.0120 +/- 0.2047
+Level  7 Young red dragon  2 Survival 0.0000 +/- 0.0000
+Level  7 Young red dragon  4 Survival 0.0000 +/- 0.0000
+Level  8 Young red dragon  1 Survival 0.1090 +/- 0.6062
+Level  8 Young red dragon  2 Survival 0.0000 +/- 0.0000
+Level  8 Young red dragon  4 Survival 0.0000 +/- 0.0000
+Level  6 Behir  1 Survival 0.0000 +/- 0.0000
+Level  6 Behir  2 Survival 0.0000 +/- 0.0000
+Level  7 Behir  1 Survival 0.0150 +/- 0.2164
+Level  7 Behir  2 Survival 0.0000 +/- 0.0000
+Level  8 Behir  1 Survival 0.0720 +/- 0.4807
+Level  8 Behir  2 Survival 0.0000 +/- 0.0000
+Level  6 Remorhaz  1 Survival 0.0000 +/- 0.0000
+Level  6 Remorhaz  2 Survival 0.0000 +/- 0.0000
+Level  7 Remorhaz  1 Survival 0.0000 +/- 0.0000
+Level  7 Remorhaz  2 Survival 0.0000 +/- 0.0000
+Level  8 Remorhaz  1 Survival 0.0950 +/- 0.5534
+Level  8 Remorhaz  2 Survival 0.0000 +/- 0.0000
